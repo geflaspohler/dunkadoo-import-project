@@ -30,8 +30,6 @@ connection.connect(function(err){
 	if(err) throw err
 	console.log('You are now connected...')
 
-	var location_names; var query_data; var species_id; var species_cleanup; var taxonomies;
-
 	console.log('Deleting bad data');	
 	connection.query(
 	"DELETE FROM observations WHERE Species NOT LIKE '%-%'",
@@ -45,20 +43,18 @@ connection.connect(function(err){
 		function(err, query_data) {
 			if(err) throw err
 			console.log('...and sucessfully queried data');
-			species_cleanup = query_data.Species;	
-			console.log(species_cleanup);
-			for(var row in species_cleanup){
-				var str = species_cleanup[row];
+			for(var row in query_data){
+				var str = query_data[row].Species;
 				var n = str.indexOf(" - ");
 				if (n === -1) throw err
 
-				species_cleanup[row] = species_cleanup[row].substring(n+3);
-				str = species_cleanup[row];
+				query_data[row].Species = query_data[row].Species.substring(n+3);
+				str = query_data[row].Species;
 				var k = str.indexOf("'");
 				if(k !== -1){
 					console.log("Found a tick!...Replacing: " + str + " with ");
-					species_cleanup[row]= str.slice(0, k) + "'" + str.slice(k); 
-					console.log(species_cleanup[row]);
+					query_data[row].Species= str.slice(0, k) + "'" + str.slice(k); 
+					console.log(query_data[row].Species);
 				}//End if k != -1
 			}//End for
 
@@ -68,12 +64,12 @@ connection.connect(function(err){
 			function(err, taxonomies) {
 				if(err) //Ignore throw here, becuase we are creating a duplicate column
 				console.log("...added new column to table");
-				console.log(species_cleanup);
-				for(var x in species_cleanup){
-					console.log("UPDATE observations SET Clean_Species ='" + species_cleanup[x]+ "' " + 
+				console.log(query_data[0].Species);
+				for(var x in query_data){
+					console.log("UPDATE observations SET Clean_Species ='" + query_data[x].Species+ "' " + 
 					"WHERE id = " + query_data[x].id+ "; ");
 					connection.query(
-					"UPDATE observations SET Clean_Species ='" + species_cleanup[x]+ "' " + 
+					"UPDATE observations SET Clean_Species ='" + query_data[x].Species+ "' " + 
 					"WHERE id = " + query_data[x].id+ "; ",
 					function(err, taxonomies) {if(err) throw err; });
 				}//End for

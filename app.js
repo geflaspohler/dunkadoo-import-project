@@ -37,7 +37,7 @@ function getSites(callback){
 
 		console.log('Getting site names');
 		connection.query(
-		"SELECT a.Site_Name FROM sites a, observations b " + 
+		"SELECT a.Site_Name, a.Study_ID FROM sites a, observations b " + 
 		"WHERE b.Study_ID = a.Study_ID",
 		function(err, location_names) {
 			if(err) throw err
@@ -46,13 +46,11 @@ function getSites(callback){
 			console.log('Getting species id');
 			connection.query(
 			//"SELECT Clean_Species FROM observations; " ,  
-			"SELECT a.id FROM taxonomy a, observations b " + 
+			"SELECT a.id, a.common_name FROM taxonomy a, observations b " + 
 			"WHERE b.Clean_Species = a.common_name ",
 			function(err, taxonomies) {
 				if(err) throw err
 				console.log('...and sucessfully got species id');
-				//console.log(taxonomies[0].Clean_Species);
-				console.log(taxonomies);
 				console.log('Getting general data');
 				connection.query(
 				"SELECT *, " +
@@ -60,14 +58,23 @@ function getSites(callback){
 				"FROM observations; ", 
 				function(err, query_data) {
 					if(err) throw err
-					console.log('...and sucessfully queried data');
-					for (var row in query_data){
-						console.log('Species: ' + (query_data[row].Species).substring(7));
+					console.log('...and sucessfully queried data');	
+					var tax_counter = 0; var site_counter = 0;
+	 				for (var row in query_data){
+						console.log('Row: ' + row);
+						console.log('Species: ' + (query_data[row].Clean_Species));
 						//console.log('Species ID: ' + taxonomies.id[row]);
-						console.log('Species ID: ' + taxonomies[row].Clean_Species);
+						if(taxonomies[tax_counter].common_name === query_data[row].Clean_Species){
+							console.log('Species ID: ' + taxonomies[tax_counter].id);
+							tax_counter++;
+						}
 						console.log('Time Observed: ' + query_data[row].ISO_Timestamp);
 						console.log('Count: ' + query_data[row].Count);
-						console.log('Site: ' + location_names[row].Site_Name);
+
+						if(location_names[site_counter].Study_ID === query_data[row].Study_ID){
+							console.log('Site: ' + location_names[site_counter].Site_Name);
+							site_counter++;
+						}
 					}//End for loop
 					callback();
 				});
@@ -75,38 +82,3 @@ function getSites(callback){
 		});
 	});
 }
-
-/*function getTaxonomy(callback){
-	connection.connect(function(err){
-		if(err) throw err
-		console.log('You are now connected...')
-
-		console.log('Getting species id');
-		connection.query(
-		"SELECT Clean_Species FROM observations; " ,  
-		//"SELECT a.id FROM taxonomy a, observations b " + 
-		//"WHERE b.Clean_Species = a.common_name ",
-		function(err, taxonomies) {
-			if(err) throw err
-			console.log(taxonomies[0].Clean_Species);
-			console.log('...and sucessfully got species id');
-			connection.end(function(err){
-				if(err) throw err
-				console.log('Session Ended!');
-			});//End close connection
-		});
-	});
-}
-
-function getQuery(callback){
-	connection.connect(function(err){
-		if(err) throw err
-		console.log('You are now connected...')
-
-	});//End get connection
-}//End getData*/
-		/*connection.end(function(err){
-			if(err) throw err
-			console.log('Session Ended!');
-		});//End close connection*/
-
