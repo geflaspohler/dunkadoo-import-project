@@ -1,0 +1,4 @@
+Key,"Observation Identifier",Status,"Question Set",Latitude,Longitude,Timestamp,Year,Month,Day,Hour,Minute,Second,"Time Zone",Technician,"Metadata Key","Edit Link",Observed,Count,"Age of bird","Morph of bird","Direction of bird(s) if other than normal",Photos,Notes
+60849,"RT - Red-tailed Hawk",Closed,4124,36.05709522019,-112.08384450082,1442171675,2015,09,13,12,14,35,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60849,"RT - Red-tailed Hawk",1,"I - Immature",Light,,,
+60855,"RT - Red-tailed Hawk",Closed,4124,36.05707000710,-112.08390933995,1442170461,2015,09,13,11,54,21,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60855,"RT - Red-tailed Hawk",1,"I - Immature",Light,,,
+60856,"BW - Broad-winged Hawk",Closed,4124,36.05705743396,-112.08384533745,1442170387,2015,09,13,11,53,07,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60856,"BW - Broad-winged Hawk",1,"A - Adult",Light,,,

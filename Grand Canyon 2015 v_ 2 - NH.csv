@@ -1,0 +1,4 @@
+Key,"Observation Identifier",Status,"Question Set",Latitude,Longitude,Timestamp,Year,Month,Day,Hour,Minute,Second,"Time Zone",Technician,"Metadata Key","Edit Link",Observed,Count,"Age of bird","Sex of bird","Direction of bird(s) if other than normal","Photo (optional)",Notes
+60074,"NH - Northern Harrier",Open,4123,36.05407279558,-112.13638915765,1441957796,2015,09,11," 0",49,56,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60074,"NH - Northern Harrier",1,,,,,
+60075,"NH - Northern Harrier",Open,4123,36.05407413875,-112.13642354836,1441957769,2015,09,11," 0",49,29,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60075,"NH - Northern Harrier",1,,,,,
+60076,"NH - Northern Harrier",Open,4123,36.05408845551,-112.13646612438,1441957737,2015,09,11," 0",48,57,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60076,"NH - Northern Harrier",1,,,,,

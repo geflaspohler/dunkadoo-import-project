@@ -1,0 +1,12 @@
+Key,"Observation Identifier",Status,"Question Set",Latitude,Longitude,Timestamp,Year,Month,Day,Hour,Minute,Second,"Time Zone",Technician,"Metadata Key","Edit Link",Observed,Count
+60078,"OS - Osprey",Open,4129,36.05409338264,-112.13648839559,1441957680,2015,09,11," 0",48,00,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60078,"OS - Osprey",1
+60325,"UA - Unknown Accipiter",Open,4129,36.05324530000,-112.13298480000,1442125897,2015,09,12,23,31,37,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60325,"UA - Unknown Accipiter",5
+60372,"UA - Unknown Accipiter",Open,4129,36.05413050793,-112.13652609448,1442122102,2015,09,12,22,28,22,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60372,"UA - Unknown Accipiter",9
+60845,"UA - Unknown Accipiter",Closed,4129,36.05712492873,-112.08387427599,1442172511,2015,09,13,12,28,31,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60845,"UA - Unknown Accipiter",1
+60857,"UA - Unknown Accipiter",Closed,4129,36.05704464916,-112.08389772082,1442169160,2015,09,13,11,32,40,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60857,"UA - Unknown Accipiter",1
+60858,"UA - Unknown Accipiter",Closed,4129,36.05705835851,-112.08389917050,1442168617,2015,09,13,11,23,37,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60858,"UA - Unknown Accipiter",1
+60861,"UA - Unknown Accipiter",Closed,4129,36.05712055718,-112.08388194386,1442165213,2015,09,13,10,26,53,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60861,"UA - Unknown Accipiter",1
+60862,"UA - Unknown Accipiter",Closed,4129,36.05712055718,-112.08388194386,1442165208,2015,09,13,10,26,48,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/60862,"UA - Unknown Accipiter",1
+62222,"PR - Prairie Falcon",Closed,4129,0.00000000000,0.00000000000,1442277032,2015,09,14,17,30,32,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/62222,"PR - Prairie Falcon",1
+62226,"UA - Unknown Accipiter",Closed,4129,0.00000000000,0.00000000000,1442265399,2015,09,14,14,16,39,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/62226,"UA - Unknown Accipiter",1
+62231,"OS - Osprey",Closed,4129,0.00000000000,0.00000000000,1442251982,2015,09,14,10,33,02,-7,"Grand Canyon HawkWatch",,https://admin.ornicept.com/reports/62231,"OS - Osprey",1
