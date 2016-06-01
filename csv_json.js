@@ -154,41 +154,4 @@ async.series([
 	}, function(err){console.log(err)});
 });
 
-
-/*function adaptColumns(data){
-    return new Promise((resolve, reject) => {
-		console.log("Please enter your custom title for the following columns : " );
-		if(data[0]['Counts'] == undefined){
-			prompt.get(['Species Count'], function (err, result) {
-				if (err) { return onErr(err); }
-				userColumns["Count"] = result.Count;
-			});
-		}
-		if(data[0]['Technician'] == undefined){
-			prompt.get(['User'], function (err, result) {
-				if (err) { return onErr(err); }
-				userColumns['Technician'] = result.Technician;
-			});
-		}
-		if(data[0]['Latitude'] == undefined){
-			prompt.get(['Latitude'], function (err, result) {
-				if (err) { return onErr(err); }
-				userColumns['Latitude'] = result.Latitude;
-			});
-		}
-		if(data[0]['Longitude'] == undefined){
-			prompt.get(['Longitude'], function (err, result) {
-				if (err) { return onErr(err); }
-				userColumns['Longitude'] = result.Longitude;
-			});
-		}
-		if(data[0]['Longitude'] == undefined){
-			prompt.get(['Longitude'], function (err, result) {
-				if (err) { return onErr(err); }
-				userColumns['Longitude'] = result.Longitude;
-			});
-		}
-		resolve(userColumns);
-	});
-}
-function onErr(err) {console.log(err);throw err;}*/
+function onErr(err) {console.log(err);throw err;}
