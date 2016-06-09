@@ -6,25 +6,18 @@ var fs = require('fs');//For reading from filesystem
 var async = require('async');//For async requests
 //var $ = require('jQuery');
 var $ = jQuery = require('jquery'); // In Node.js
+var _ = require("lodash");
 var http = require('http');
 var request = require('request');
 
 var string_data = '[{"local_id":3,"uuid":"b7e43d56-cc32-4f33-8bf0-e7c91adb76d4","projectId":4,"speciesId":76,"count":2,"user":"gflaspohler@dunkadoo.org","timestamp":"2016-06-07T13:46:03-04:00","latitude":42.2830168,"longitude":-83.7485074,"accuracy":18.85300064086914,"gps_at":"2016-06-07T13:46:04-04:00","data":"{\"age\":\"\",\"sex\":\"\",\"band\":\"\",\"rare\":\"\",\"size\":\"\",\"behavior\":[],\"distance\":\"\",\"direction\":\"\",\"observation\":[]}","device":"e17092ac5955022e","last_updated":"2016-06-07T13:46:04-04:00","ready_submit":"2016-06-07T13:46:04-04:00"}]';
 
-var json_bird_data =  
+
+//Default values for each packet
+var json_bird_data = 
 {
 	"local_id":3,
-	"uuid":"4f4f8fee-e461-43be-9746-3dad0455d5a8",
-	"projectId":4,
-	"speciesId":77,
-	"count":5,
-	"user":"gflaspohler@dunkadoo.org",
-	"timestamp":"2016-06-07T13:46:03-04:00",
-	"latitude":42.2830168,
-	"longitude":-83.7485074,
-	"accuracy":18.85300064086914,
 	"gps_at":"2016-06-07T13:46:04-04:00",
-	"data":"{\"age\":\"\",\"sex\":\"\",\"band\":\"\",\"rare\":\"\",\"size\":\"\",\"behavior\":[],\"distance\":\"\",\"direction\":\"\",\"observation\":[]}",
 	"device":"e17092ac5955022e",
 	"last_updated":"2016-06-07T13:46:04-04:00",
 	"ready_submit":"2016-06-07T13:46:04-04:00"
@@ -107,78 +100,71 @@ function printJSON(data){
 			//For this to work, curentValue must be a JSON entry with a hash-mapped
 			//"Year", "Month", "Day", "Hour", "Minute", "Second", "Time Zone" fields
 			var timestamp = getTimestamp(currentValue);
-			
-			json_packet +="{ " + '\n';
-			json_packet += ' "uuid": ' + '"' + uuid + '" , \n';
-			json_packet += ' "projectid": "' + "temp" + '", \n';
-			json_packet += ' "speciesid": ' + taxonomies[currentValue[userColumns['Observed']]] + ', \n';
-			json_packet += ' "count": ' + currentValue[userColumns['Count']] + ', \n';
-			json_packet += ' "user": "' + currentValue[userColumns["Technician"]] + '", \n';
-			json_packet += ' "timestamp": "' + timestamp + '", \n';
-			json_packet += ' "latitude": ' + currentValue[userColumns["Latitude"]] + ', \n';
-			json_packet += ' "longitude": ' + currentValue[userColumns["Longitude"]] + ', \n';
-			json_packet += ' "gps_at": "' + timestamp + '", \n';
+			json_bird_data["uuid"] = uuid;
+			json_bird_data["projectId"] = 8;
+			json_bird_data["speciesId"] =  taxonomies[currentValue[userColumns['Observed']]];
+			json_bird_data["count"] = currentValue[userColumns['Count']];
+			json_bird_data["user"] = currentValue[userColumns["Technician"]];
+			json_bird_data["timestamp"] = timestamp;
+			json_bird_data["latitude"] = currentValue[userColumns["Latitude"]];
+			json_bird_data["longitude"] = currentValue[userColumns["Longitude"]];
+			//json_bird_data["gps_at"] = timestamp;
 			//Only print study specific information if user has provided 
 			if(studySpecific && studySpecific[0] !== '' && studySpecific[0] !== ' '){
 				var data_printed = false;
+				var data = {};
 				for(var i = 0; i < studySpecific.length; i++){
 					if(currentValue[studySpecific[i]] && currentValue[studySpecific[i]] !== '' && currentValue[studySpecific[i]] !== " "){
 						if(data_printed === false){
-							json_packet += ' "data": { ' + '\n';
 							data_printed = true;
 						}
-						json_packet += '\t' + '"' + studySpecific[i] + '": "' + currentValue[studySpecific[i]] + '", \n';
+						data[studySpecific[i]]  = currentValue[studySpecific[i]];
 					}
 				}
 				if(data_printed === true){
-					json_packet = json_packet.substring(0, json_packet.length - 3);
-					json_packet += "\n  }" + ', \n';
+					json_bird_data["data"] = data;
 				}
 			}
 			//Only print species specific information if user has provided 
 			if(speciesSpecific && speciesSpecific[0] !== '' && speciesSpecific[0] !== ' '){
 				var species_data_printed = false;
+				var speciesData = {};
 				for(var i = 0; i < speciesSpecific.length; i++){
 					var cname = speciesSpecific[i];
 					var cdata = currentValue[speciesSpecific[i]];
 					if(cdata && cdata !== '' && cdata !== " "){
 						if(species_data_printed === false){
-							json_packet += ' "SpeciesData:" { ' + '\n';
 							species_data_printed = true;
 						}
 
 						if(cname.toLowerCase().includes('age')){
-							json_packet += '\t' + '"' + "age" + '": "' + currentValue[speciesSpecific[i]] + '", \n';
+							speciesData["age"] = currentValue[speciesSpecific[i]];
 						}//End inner if
 						else if(cname.toLowerCase().includes('gender')){
-							json_packet += '\t' + '"' + 'sex' + '": "' + currentValue[speciesSpecific[i]] + '", \n';
+							speciesData["sex"] = currentValue[speciesSpecific[i]];
 						}//End inner if
 						else if(cname.toLowerCase().includes('age')){
-							json_packet += '\t' + '"' + 'age' + '": "' + currentValue[speciesSpecific[i]] + '", \n';
+							speciesData["age"] = currentValue[speciesSpecific[i]];
 						}//End inner if
 						else if(cname.toLowerCase().includes('key')){
-							json_packet += '\t' + '"' + 'key' + '": "' + currentValue[speciesSpecific[i]] + '", \n';
+							speciesData["key"] = currentValue[speciesSpecific[i]];
 						}//End inner if
 						else if(cname.toLowerCase().includes('morph')){
-							json_packet += '\t' + '"' + 'morph' + '": "' + currentValue[speciesSpecific[i]] + '", \n';
+							speciesData["morph"] = currentValue[speciesSpecific[i]];
 						}//End inner if
 						else if(cname.toLowerCase().includes('molt')){
-							json_packet += '\t' + '"' + 'molt' + '": "' + currentValue[speciesSpecific[i]] + '", \n';
+							speciesData["molt"] = currentValue[speciesSpecific[i]];
 						}//End inner if
 						else{
-							json_packet += '\t' + '"' + 'raw attribute' + '": ' + currentValue[speciesSpecific[i]] + ', \n';
+							speciesData["raw attribute"] = currentValue[speciesSpecific[i]];
 						}	
 					}//End outer if
 				}
 				if(species_data_printed === true){
-					json_packet = json_packet.substring(0, json_packet.length - 3);
-					json_packet += "\n  }" + ', \n';
+					json_bird_data["data"] = speciesData;//TODO: note, this should be "SpeciesData", as this data is species specific
 				}
 			}
-			json_packet += ' "device": ' + '"temp"' + '\n';
-			json_packet +=" }";
-			console.log(json_packet);
-			json_data.push(json_packet);
+			json_data[total_processed] = _.cloneDeep(json_bird_data);
 			total_processed++;
 			console.log("Proccessed " + total_processed + " out of " + observations.length);
 			if(total_processed === observations.length){
@@ -202,9 +188,13 @@ var generateUUID = function(){
 
 //Get an ISO 8601 timestamp from an obejct that has date information
 var getTimestamp = function(t){
-	return t['Year'] + '-' + t['Month'] + '-' +  t['Day']
+	var test = t['Year'] + '-' + t['Month'] + '-' +  t['Day']
 		+ 'T' + ((t['Hour'].length === 2) ? t['Hour'] : ('0'+t['Hour'])) 
-		+ ':' + t['Minute'] + ':' + t['Second'] + t['Time Zone'] + '.00'; 
+		+ ':' + t['Minute'] + ':' + t['Second']  
+		+ ((t['Time Zone'].length === 3) ? t['Time Zone'] : (t['Time Zone'].slice(0, 1) + "0" + t['Time Zone'].slice(1)))
+		+ '.00'; 
+	console.log(test);
+	return test;
 }
 
 //Get user input for study and species specific column names. Should be 
@@ -254,11 +244,13 @@ function onErr(err) {console.log(err);throw err;}
 
 var sendObservations = function (observationJSON, submission_reflects_time){
 
+	console.log(json_bird_data);
+	console.log(observationJSON);
 	var uploadAddress = 'https://app-dev.dunkadoo.org/api/v1/observations/?apikey=003ae3b9c7b1b00b2e85888ab6f3501d';
 	request({
 		url: uploadAddress,
 		method: "POST",
-		json: json_bird_data 
+		json: observationJSON 
 	}, function (error, response, body) {
         if (!error && (response.statusCode === 200 || response.statusCode === 201)) {
             console.log(body)
