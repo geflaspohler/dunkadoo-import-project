@@ -1,0 +1,17 @@
+{
+	"local_id":3,
+	"uuid":"3f4f8fee-e461-43be-9746-3dad0455d5a8",
+	"projectId":4,
+	"speciesId":77,
+	"count":5,
+	"user":"gflaspohler@dunkadoo.org",
+	"timestamp":"2016-06-07T13:46:03-04:00",
+	"latitude":42.2830168,
+	"longitude":-83.7485074,
+	"accuracy":18.85300064086914,
+	"gps_at":"2016-06-07T13:46:04-04:00",
+	"data":"{\"age\":\"\",\"sex\":\"\",\"band\":\"\",\"rare\":\"\",\"size\":\"\",\"behavior\":[],\"distance\":\"\",\"direction\":\"\",\"observation\":[]}",
+	"device":"e17092ac5955022e",
+	"last_updated":"2016-06-07T13:46:04-04:00",
+	"ready_submit":"2016-06-07T13:46:04-04:00"
+}

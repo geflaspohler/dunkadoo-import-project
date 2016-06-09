@@ -1,0 +1,4889 @@
+{
+    "name": "HWI_Test2",
+    "Species": [
+        {
+            "BE": "BV",
+            "Bald Eagle (1 of 1222)": "Black Vulture (2 of 1222)"
+        },
+        {
+            "BE": "BW",
+            "Bald Eagle (1 of 1222)": "Broad-winged Hawk (3 of 1222)"
+        },
+        {
+            "BE": "BH",
+            "Bald Eagle (1 of 1222)": "Common Black Hawk (4 of 1222)"
+        },
+        {
+            "BE": "CH",
+            "Bald Eagle (1 of 1222)": "Cooper's Hawk (5 of 1222)"
+        },
+        {
+            "BE": "CC",
+            "Bald Eagle (1 of 1222)": "Crested Caracara (6 of 1222)"
+        },
+        {
+            "BE": "EK",
+            "Bald Eagle (1 of 1222)": "Eurasian Kestrel (7 of 1222)"
+        },
+        {
+            "BE": "FH",
+            "Bald Eagle (1 of 1222)": "Ferruginous Hawk (8 of 1222)"
+        },
+        {
+            "BE": "GE",
+            "Bald Eagle (1 of 1222)": "Golden Eagle (9 of 1222)"
+        },
+        {
+            "BE": "GH",
+            "Bald Eagle (1 of 1222)": "Gray Hawk (10 of 1222)"
+        },
+        {
+            "BE": "GY",
+            "Bald Eagle (1 of 1222)": "Gyrfalcon (11 of 1222)"
+        },
+        {
+            "BE": "HH",
+            "Bald Eagle (1 of 1222)": "Harris's Hawk (12 of 1222)"
+        },
+        {
+            "BE": "HK",
+            "Bald Eagle (1 of 1222)": "Hook-billed Kite (13 of 1222)"
+        },
+        {
+            "BE": "ML",
+            "Bald Eagle (1 of 1222)": "Merlin (14 of 1222)"
+        },
+        {
+            "BE": "MK",
+            "Bald Eagle (1 of 1222)": "Mississippi Kite (15 of 1222)"
+        },
+        {
+            "BE": "NG",
+            "Bald Eagle (1 of 1222)": "Northern Goshawk (16 of 1222)"
+        },
+        {
+            "BE": "NH",
+            "Bald Eagle (1 of 1222)": "Northern Harrier (17 of 1222)"
+        },
+        {
+            "BE": "OS",
+            "Bald Eagle (1 of 1222)": "Osprey (18 of 1222)"
+        },
+        {
+            "BE": "PG",
+            "Bald Eagle (1 of 1222)": "Peregrine Falcon (19 of 1222)"
+        },
+        {
+            "BE": "PK",
+            "Bald Eagle (1 of 1222)": "Plumbeous Kite (20 of 1222)"
+        },
+        {
+            "BE": "PR",
+            "Bald Eagle (1 of 1222)": "Prairie Falcon (21 of 1222)"
+        },
+        {
+            "BE": "RS",
+            "Bald Eagle (1 of 1222)": "Red-shouldered Hawk (22 of 1222)"
+        },
+        {
+            "BE": "RT",
+            "Bald Eagle (1 of 1222)": "Red-tailed Hawk (23 of 1222)"
+        },
+        {
+            "BE": "RL",
+            "Bald Eagle (1 of 1222)": "Rough-legged Hawk (24 of 1222)"
+        },
+        {
+            "BE": "SS",
+            "Bald Eagle (1 of 1222)": "Sharp-shinned Hawk (25 of 1222)"
+        },
+        {
+            "BE": "SH",
+            "Bald Eagle (1 of 1222)": "Short-tailed Hawk (26 of 1222)"
+        },
+        {
+            "BE": "SN",
+            "Bald Eagle (1 of 1222)": "Snail Kite (27 of 1222)"
+        },
+        {
+            "BE": "SW",
+            "Bald Eagle (1 of 1222)": "Swainson's Hawk (28 of 1222)"
+        },
+        {
+            "BE": "SK",
+            "Bald Eagle (1 of 1222)": "Swallow-tailed Kite (29 of 1222)"
+        },
+        {
+            "BE": "TV",
+            "Bald Eagle (1 of 1222)": "Turkey Vulture (30 of 1222)"
+        },
+        {
+            "BE": "UA",
+            "Bald Eagle (1 of 1222)": "Unknown Accipiter (31 of 1222)"
+        },
+        {
+            "BE": "UB",
+            "Bald Eagle (1 of 1222)": "Unknown Buteo (32 of 1222)"
+        },
+        {
+            "BE": "UE",
+            "Bald Eagle (1 of 1222)": "Unknown Eagle (33 of 1222)"
+        },
+        {
+            "BE": "UF",
+            "Bald Eagle (1 of 1222)": "Unknown Falcon (34 of 1222)"
+        },
+        {
+            "BE": "UR",
+            "Bald Eagle (1 of 1222)": "Unknown Raptor (35 of 1222)"
+        },
+        {
+            "BE": "UV",
+            "Bald Eagle (1 of 1222)": "Unknown Vulture (36 of 1222)"
+        },
+        {
+            "BE": "WE",
+            "Bald Eagle (1 of 1222)": "White-tailed Eagle (37 of 1222)"
+        },
+        {
+            "BE": "WT",
+            "Bald Eagle (1 of 1222)": "White-tailed Hawk (38 of 1222)"
+        },
+        {
+            "BE": "WK",
+            "Bald Eagle (1 of 1222)": "White-tailed Kite (39 of 1222)"
+        },
+        {
+            "BE": "ZT",
+            "Bald Eagle (1 of 1222)": "Zone-tailed Hawk (40 of 1222)"
+        },
+        {
+            "BE": "SA",
+            "Bald Eagle (1 of 1222)": "Small Accipiter (41 of 1222)"
+        },
+        {
+            "BE": "LA",
+            "Bald Eagle (1 of 1222)": "Large Accipiter (42 of 1222)"
+        },
+        {
+            "BE": "SF",
+            "Bald Eagle (1 of 1222)": "Small Falcon (43 of 1222)"
+        },
+        {
+            "BE": "LF",
+            "Bald Eagle (1 of 1222)": "Large Falcon (44 of 1222)"
+        },
+        {
+            "BE": "UK",
+            "Bald Eagle (1 of 1222)": "Unknown Kite (45 of 1222)"
+        },
+        {
+            "BE": "WEGR",
+            "Bald Eagle (1 of 1222)": "Western Grebe (46 of 1222)"
+        },
+        {
+            "BE": "CLGR",
+            "Bald Eagle (1 of 1222)": "Clark's Grebe (47 of 1222)"
+        },
+        {
+            "BE": "WCGR",
+            "Bald Eagle (1 of 1222)": "Western/Clark's Grebe (48 of 1222)"
+        },
+        {
+            "BE": "RNGR",
+            "Bald Eagle (1 of 1222)": "Red-necked Grebe (49 of 1222)"
+        },
+        {
+            "BE": "HOGR",
+            "Bald Eagle (1 of 1222)": "Horned Grebe (50 of 1222)"
+        },
+        {
+            "BE": "EAGR",
+            "Bald Eagle (1 of 1222)": "Eared Grebe (51 of 1222)"
+        },
+        {
+            "BE": "LEGR",
+            "Bald Eagle (1 of 1222)": "Least Grebe (52 of 1222)"
+        },
+        {
+            "BE": "PBGR",
+            "Bald Eagle (1 of 1222)": "Pied-billed Grebe (53 of 1222)"
+        },
+        {
+            "BE": "COLO",
+            "Bald Eagle (1 of 1222)": "Common Loon (54 of 1222)"
+        },
+        {
+            "BE": "YBLO",
+            "Bald Eagle (1 of 1222)": "Yellow-billed Loon (55 of 1222)"
+        },
+        {
+            "BE": "ARLO",
+            "Bald Eagle (1 of 1222)": "Arctic Loon (56 of 1222)"
+        },
+        {
+            "BE": "PALO",
+            "Bald Eagle (1 of 1222)": "Pacific Loon (57 of 1222)"
+        },
+        {
+            "BE": "RTLO",
+            "Bald Eagle (1 of 1222)": "Red-throated Loon (58 of 1222)"
+        },
+        {
+            "BE": "TUPU",
+            "Bald Eagle (1 of 1222)": "Tufted Puffin (59 of 1222)"
+        },
+        {
+            "BE": "ATPU",
+            "Bald Eagle (1 of 1222)": "Atlantic Puffin (60 of 1222)"
+        },
+        {
+            "BE": "HOPU",
+            "Bald Eagle (1 of 1222)": "Horned Puffin (61 of 1222)"
+        },
+        {
+            "BE": "RHAU",
+            "Bald Eagle (1 of 1222)": "Rhinoceros Auklet (62 of 1222)"
+        },
+        {
+            "BE": "CAAU",
+            "Bald Eagle (1 of 1222)": "Cassin's Auklet (63 of 1222)"
+        },
+        {
+            "BE": "PAAU",
+            "Bald Eagle (1 of 1222)": "Parakeet Auklet (64 of 1222)"
+        },
+        {
+            "BE": "CRAU",
+            "Bald Eagle (1 of 1222)": "Crested Auklet (65 of 1222)"
+        },
+        {
+            "BE": "WHAU",
+            "Bald Eagle (1 of 1222)": "Whiskered Auklet (66 of 1222)"
+        },
+        {
+            "BE": "LEAU",
+            "Bald Eagle (1 of 1222)": "Least Auklet (67 of 1222)"
+        },
+        {
+            "BE": "ANMU",
+            "Bald Eagle (1 of 1222)": "Ancient Murrelet (68 of 1222)"
+        },
+        {
+            "BE": "MAMU",
+            "Bald Eagle (1 of 1222)": "Marbled Murrelet (69 of 1222)"
+        },
+        {
+            "BE": "LBMU",
+            "Bald Eagle (1 of 1222)": "Long-billed Murrelet (70 of 1222)"
+        },
+        {
+            "BE": "AMMU",
+            "Bald Eagle (1 of 1222)": "Alaska Marbled Murrelet (71 of 1222)"
+        },
+        {
+            "BE": "KIMU",
+            "Bald Eagle (1 of 1222)": "Kittlitz's Murrelet (72 of 1222)"
+        },
+        {
+            "BE": "XAMU",
+            "Bald Eagle (1 of 1222)": "Xantus's Murrelet (73 of 1222)"
+        },
+        {
+            "BE": "SCMU",
+            "Bald Eagle (1 of 1222)": "Scripps's Murrelet (74 of 1222)"
+        },
+        {
+            "BE": "GUMU",
+            "Bald Eagle (1 of 1222)": "Guadalupe Murrelet (75 of 1222)"
+        },
+        {
+            "BE": "CRMU",
+            "Bald Eagle (1 of 1222)": "Craveri's Murrelet (76 of 1222)"
+        },
+        {
+            "BE": "BLGU",
+            "Bald Eagle (1 of 1222)": "Black Guillemot (77 of 1222)"
+        },
+        {
+            "BE": "PIGU",
+            "Bald Eagle (1 of 1222)": "Pigeon Guillemot (78 of 1222)"
+        },
+        {
+            "BE": "COMU",
+            "Bald Eagle (1 of 1222)": "Common Murre (79 of 1222)"
+        },
+        {
+            "BE": "TBMU",
+            "Bald Eagle (1 of 1222)": "Thick-billed Murre (80 of 1222)"
+        },
+        {
+            "BE": "RAZO",
+            "Bald Eagle (1 of 1222)": "Razorbill (81 of 1222)"
+        },
+        {
+            "BE": "DOVE",
+            "Bald Eagle (1 of 1222)": "Dovekie (82 of 1222)"
+        },
+        {
+            "BE": "GRSK",
+            "Bald Eagle (1 of 1222)": "Great Skua (83 of 1222)"
+        },
+        {
+            "BE": "SPSK",
+            "Bald Eagle (1 of 1222)": "South Polar Skua (84 of 1222)"
+        },
+        {
+            "BE": "POJA",
+            "Bald Eagle (1 of 1222)": "Pomarine Jaeger (85 of 1222)"
+        },
+        {
+            "BE": "PAJA",
+            "Bald Eagle (1 of 1222)": "Parasitic Jaeger (86 of 1222)"
+        },
+        {
+            "BE": "LTJA",
+            "Bald Eagle (1 of 1222)": "Long-tailed Jaeger (87 of 1222)"
+        },
+        {
+            "BE": "IVGU",
+            "Bald Eagle (1 of 1222)": "Ivory Gull (88 of 1222)"
+        },
+        {
+            "BE": "MAGU",
+            "Bald Eagle (1 of 1222)": "Magellan Gull (89 of 1222)"
+        },
+        {
+            "BE": "BLKI",
+            "Bald Eagle (1 of 1222)": "Black-legged Kittiwake (90 of 1222)"
+        },
+        {
+            "BE": "RLKI",
+            "Bald Eagle (1 of 1222)": "Red-legged Kittiwake (91 of 1222)"
+        },
+        {
+            "BE": "GLGU",
+            "Bald Eagle (1 of 1222)": "Glaucous Gull (92 of 1222)"
+        },
+        {
+            "BE": "ICGU",
+            "Bald Eagle (1 of 1222)": "Iceland Gull (93 of 1222)"
+        },
+        {
+            "BE": "THGU",
+            "Bald Eagle (1 of 1222)": "Thayer's Gull (94 of 1222)"
+        },
+        {
+            "BE": "GWGU",
+            "Bald Eagle (1 of 1222)": "Glaucous-winged Gull (95 of 1222)"
+        },
+        {
+            "BE": "HYGU",
+            "Bald Eagle (1 of 1222)": "Hybrid Gull (96 of 1222)"
+        },
+        {
+            "BE": "GBBG",
+            "Bald Eagle (1 of 1222)": "Great Black-backed Gull (97 of 1222)"
+        },
+        {
+            "BE": "SBGU",
+            "Bald Eagle (1 of 1222)": "Slaty-backed Gull (98 of 1222)"
+        },
+        {
+            "BE": "WEGU",
+            "Bald Eagle (1 of 1222)": "Western Gull (99 of 1222)"
+        },
+        {
+            "BE": "YFGU",
+            "Bald Eagle (1 of 1222)": "Yellow-footed Gull (100 of 1222)"
+        },
+        {
+            "BE": "LBBG",
+            "Bald Eagle (1 of 1222)": "Lesser Black-backed Gull (101 of 1222)"
+        },
+        {
+            "BE": "HERG",
+            "Bald Eagle (1 of 1222)": "Herring Gull (102 of 1222)"
+        },
+        {
+            "BE": "CAGU",
+            "Bald Eagle (1 of 1222)": "California Gull (103 of 1222)"
+        },
+        {
+            "BE": "UNGU",
+            "Bald Eagle (1 of 1222)": "Unidentified Gull (104 of 1222)"
+        },
+        {
+            "BE": "RBGU",
+            "Bald Eagle (1 of 1222)": "Ring-billed Gull (105 of 1222)"
+        },
+        {
+            "BE": "BTGU",
+            "Bald Eagle (1 of 1222)": "Band-tailed Gull (106 of 1222)"
+        },
+        {
+            "BE": "MEGU",
+            "Bald Eagle (1 of 1222)": "Mew Gull (107 of 1222)"
+        },
+        {
+            "BE": "BHGU",
+            "Bald Eagle (1 of 1222)": "Black-headed Gull (108 of 1222)"
+        },
+        {
+            "BE": "HEEG",
+            "Bald Eagle (1 of 1222)": "Heermann's Gull (109 of 1222)"
+        },
+        {
+            "BE": "LAGU",
+            "Bald Eagle (1 of 1222)": "Laughing Gull (110 of 1222)"
+        },
+        {
+            "BE": "FRGU",
+            "Bald Eagle (1 of 1222)": "Franklin's Gull (111 of 1222)"
+        },
+        {
+            "BE": "BOGU",
+            "Bald Eagle (1 of 1222)": "Bonaparte's Gull (112 of 1222)"
+        },
+        {
+            "BE": "LIGU",
+            "Bald Eagle (1 of 1222)": "Little Gull (113 of 1222)"
+        },
+        {
+            "BE": "ROGU",
+            "Bald Eagle (1 of 1222)": "Ross's Gull (114 of 1222)"
+        },
+        {
+            "BE": "SAGU",
+            "Bald Eagle (1 of 1222)": "Sabine's Gull (115 of 1222)"
+        },
+        {
+            "BE": "GBTE",
+            "Bald Eagle (1 of 1222)": "Gull-billed Tern (116 of 1222)"
+        },
+        {
+            "BE": "CATE",
+            "Bald Eagle (1 of 1222)": "Caspian Tern (117 of 1222)"
+        },
+        {
+            "BE": "ROYT",
+            "Bald Eagle (1 of 1222)": "Royal Tern (118 of 1222)"
+        },
+        {
+            "BE": "CRTE",
+            "Bald Eagle (1 of 1222)": "Crested Tern (119 of 1222)"
+        },
+        {
+            "BE": "ELTE",
+            "Bald Eagle (1 of 1222)": "Elegant Tern (120 of 1222)"
+        },
+        {
+            "BE": "SATE",
+            "Bald Eagle (1 of 1222)": "Sandwich Tern (121 of 1222)"
+        },
+        {
+            "BE": "CAYT",
+            "Bald Eagle (1 of 1222)": "Cayenne Tern (122 of 1222)"
+        },
+        {
+            "BE": "FOTE",
+            "Bald Eagle (1 of 1222)": "Forster's Tern (123 of 1222)"
+        },
+        {
+            "BE": "COTE",
+            "Bald Eagle (1 of 1222)": "Common Tern (124 of 1222)"
+        },
+        {
+            "BE": "HYTE",
+            "Bald Eagle (1 of 1222)": "Hybrid Tern (125 of 1222)"
+        },
+        {
+            "BE": "ARTE",
+            "Bald Eagle (1 of 1222)": "Arctic Tern (126 of 1222)"
+        },
+        {
+            "BE": "ROST",
+            "Bald Eagle (1 of 1222)": "Roseate Tern (127 of 1222)"
+        },
+        {
+            "BE": "HCRT",
+            "Bald Eagle (1 of 1222)": "Common Tern X Roseate Tern Hybrid (128 of 1222)"
+        },
+        {
+            "BE": "ALTE",
+            "Bald Eagle (1 of 1222)": "Aleutian Tern (129 of 1222)"
+        },
+        {
+            "BE": "BNTE",
+            "Bald Eagle (1 of 1222)": "Black-naped Tern (130 of 1222)"
+        },
+        {
+            "BE": "LETE",
+            "Bald Eagle (1 of 1222)": "Least Tern (131 of 1222)"
+        },
+        {
+            "BE": "LITE",
+            "Bald Eagle (1 of 1222)": "Little Tern (132 of 1222)"
+        },
+        {
+            "BE": "ILTE",
+            "Bald Eagle (1 of 1222)": "Interior Least Tern (133 of 1222)"
+        },
+        {
+            "BE": "CLTE",
+            "Bald Eagle (1 of 1222)": "California Least Tern (134 of 1222)"
+        },
+        {
+            "BE": "SOTE",
+            "Bald Eagle (1 of 1222)": "Sooty Tern (135 of 1222)"
+        },
+        {
+            "BE": "BRTE",
+            "Bald Eagle (1 of 1222)": "Bridled Tern (136 of 1222)"
+        },
+        {
+            "BE": "GRAT",
+            "Bald Eagle (1 of 1222)": "Gray-backed Tern (137 of 1222)"
+        },
+        {
+            "BE": "BLTE",
+            "Bald Eagle (1 of 1222)": "Black Tern (138 of 1222)"
+        },
+        {
+            "BE": "WWTE",
+            "Bald Eagle (1 of 1222)": "White-winged Tern (139 of 1222)"
+        },
+        {
+            "BE": "WHIT",
+            "Bald Eagle (1 of 1222)": "Whiskered Tern (140 of 1222)"
+        },
+        {
+            "BE": "BRNO",
+            "Bald Eagle (1 of 1222)": "Brown Noddy (141 of 1222)"
+        },
+        {
+            "BE": "BLNO",
+            "Bald Eagle (1 of 1222)": "Black Noddy (142 of 1222)"
+        },
+        {
+            "BE": "BGNO",
+            "Bald Eagle (1 of 1222)": "Blue-gray Noddy (143 of 1222)"
+        },
+        {
+            "BE": "WHTE",
+            "Bald Eagle (1 of 1222)": "White Tern (144 of 1222)"
+        },
+        {
+            "BE": "BLSK",
+            "Bald Eagle (1 of 1222)": "Black Skimmer (145 of 1222)"
+        },
+        {
+            "BE": "BFAL",
+            "Bald Eagle (1 of 1222)": "Black-footed Albatross (146 of 1222)"
+        },
+        {
+            "BE": "WAAL",
+            "Bald Eagle (1 of 1222)": "Wandering Albatross (147 of 1222)"
+        },
+        {
+            "BE": "HYAL",
+            "Bald Eagle (1 of 1222)": "Hybrid Albatross (148 of 1222)"
+        },
+        {
+            "BE": "STAL",
+            "Bald Eagle (1 of 1222)": "Short-tailed Albatross (149 of 1222)"
+        },
+        {
+            "BE": "LAAL",
+            "Bald Eagle (1 of 1222)": "Laysan Albatross (150 of 1222)"
+        },
+        {
+            "BE": "BBAL",
+            "Bald Eagle (1 of 1222)": "Black-browed Albatross (151 of 1222)"
+        },
+        {
+            "BE": "SHAL",
+            "Bald Eagle (1 of 1222)": "Shy Albatross (152 of 1222)"
+        },
+        {
+            "BE": "WAVA",
+            "Bald Eagle (1 of 1222)": "Waved Albatross (153 of 1222)"
+        },
+        {
+            "BE": "YNAL",
+            "Bald Eagle (1 of 1222)": "Yellow-nosed Albatross (154 of 1222)"
+        },
+        {
+            "BE": "NOFU",
+            "Bald Eagle (1 of 1222)": "Northern Fulmar (155 of 1222)"
+        },
+        {
+            "BE": "COSH",
+            "Bald Eagle (1 of 1222)": "Cory's Shearwater (156 of 1222)"
+        },
+        {
+            "BE": "STRS",
+            "Bald Eagle (1 of 1222)": "Streaked Shearwater (157 of 1222)"
+        },
+        {
+            "BE": "GRSH",
+            "Bald Eagle (1 of 1222)": "Great Shearwater (158 of 1222)"
+        },
+        {
+            "BE": "MASH",
+            "Bald Eagle (1 of 1222)": "Manx Shearwater (159 of 1222)"
+        },
+        {
+            "BE": "PFSH",
+            "Bald Eagle (1 of 1222)": "Pink-footed Shearwater (160 of 1222)"
+        },
+        {
+            "BE": "AUSH",
+            "Bald Eagle (1 of 1222)": "Audubon's Shearwater (161 of 1222)"
+        },
+        {
+            "BE": "LISH",
+            "Bald Eagle (1 of 1222)": "Little Shearwater (162 of 1222)"
+        },
+        {
+            "BE": "TRSH",
+            "Bald Eagle (1 of 1222)": "Tropical Shearwater (163 of 1222)"
+        },
+        {
+            "BE": "BVSH",
+            "Bald Eagle (1 of 1222)": "Black-vented Shearwater (164 of 1222)"
+        },
+        {
+            "BE": "TOSH",
+            "Bald Eagle (1 of 1222)": "Townsend's Shearwater (165 of 1222)"
+        },
+        {
+            "BE": "NESH",
+            "Bald Eagle (1 of 1222)": "Newell's Shearwater (166 of 1222)"
+        },
+        {
+            "BE": "SOSH",
+            "Bald Eagle (1 of 1222)": "Sooty Shearwater (167 of 1222)"
+        },
+        {
+            "BE": "FFSH",
+            "Bald Eagle (1 of 1222)": "Flesh-footed Shearwater (168 of 1222)"
+        },
+        {
+            "BE": "SHOS",
+            "Bald Eagle (1 of 1222)": "Short-tailed Shearwater (169 of 1222)"
+        },
+        {
+            "BE": "WTSH",
+            "Bald Eagle (1 of 1222)": "Wedge-tailed Shearwater (170 of 1222)"
+        },
+        {
+            "BE": "BULS",
+            "Bald Eagle (1 of 1222)": "Buller's Shearwater (171 of 1222)"
+        },
+        {
+            "BE": "CHSH",
+            "Bald Eagle (1 of 1222)": "Christmas Shearwater (172 of 1222)"
+        },
+        {
+            "BE": "BCPE",
+            "Bald Eagle (1 of 1222)": "Black-capped Petrel (173 of 1222)"
+        },
+        {
+            "BE": "COPE",
+            "Bald Eagle (1 of 1222)": "Cook's Petrel (174 of 1222)"
+        },
+        {
+            "BE": "HAPE",
+            "Bald Eagle (1 of 1222)": "Hawaiian Petrel (175 of 1222)"
+        },
+        {
+            "BE": "JFPE",
+            "Bald Eagle (1 of 1222)": "Juan Fernandez Petrel (176 of 1222)"
+        },
+        {
+            "BE": "PHPE",
+            "Bald Eagle (1 of 1222)": "Phoenix Petrel (177 of 1222)"
+        },
+        {
+            "BE": "MOPE",
+            "Bald Eagle (1 of 1222)": "Mottled Petrel (178 of 1222)"
+        },
+        {
+            "BE": "BOPE",
+            "Bald Eagle (1 of 1222)": "Bonin Petrel (179 of 1222)"
+        },
+        {
+            "BE": "BWPE",
+            "Bald Eagle (1 of 1222)": "Black-winged Petrel (180 of 1222)"
+        },
+        {
+            "BE": "MUPE",
+            "Bald Eagle (1 of 1222)": "Murphy's Petrel (181 of 1222)"
+        },
+        {
+            "BE": "STPE",
+            "Bald Eagle (1 of 1222)": "Stejneger's Petrel (182 of 1222)"
+        },
+        {
+            "BE": "TAPE",
+            "Bald Eagle (1 of 1222)": "Tahiti Petrel (183 of 1222)"
+        },
+        {
+            "BE": "BUPE",
+            "Bald Eagle (1 of 1222)": "Bulwer's Petrel (184 of 1222)"
+        },
+        {
+            "BE": "CAPE",
+            "Bald Eagle (1 of 1222)": "Cape Petrel (185 of 1222)"
+        },
+        {
+            "BE": "LTSP",
+            "Bald Eagle (1 of 1222)": "Least Storm-Petrel (186 of 1222)"
+        },
+        {
+            "BE": "FTSP",
+            "Bald Eagle (1 of 1222)": "Fork-tailed Storm-Petrel (187 of 1222)"
+        },
+        {
+            "BE": "LHSP",
+            "Bald Eagle (1 of 1222)": "Leach's Storm-Petrel (188 of 1222)"
+        },
+        {
+            "BE": "BANP",
+            "Bald Eagle (1 of 1222)": "Band-rumped Storm-Petrel (189 of 1222)"
+        },
+        {
+            "BE": "WRSP",
+            "Bald Eagle (1 of 1222)": "Wedge-rumped Storm-Petrel (190 of 1222)"
+        },
+        {
+            "BE": "BLSP",
+            "Bald Eagle (1 of 1222)": "Black Storm-Petrel (191 of 1222)"
+        },
+        {
+            "BE": "TRSP",
+            "Bald Eagle (1 of 1222)": "Tristram's Storm-Petrel (192 of 1222)"
+        },
+        {
+            "BE": "ASSP",
+            "Bald Eagle (1 of 1222)": "Ashy Storm-Petrel (193 of 1222)"
+        },
+        {
+            "BE": "WISP",
+            "Bald Eagle (1 of 1222)": "Wilson's Storm-Petrel (194 of 1222)"
+        },
+        {
+            "BE": "WHSP",
+            "Bald Eagle (1 of 1222)": "White-throated Storm-Petrel (195 of 1222)"
+        },
+        {
+            "BE": "WFSP",
+            "Bald Eagle (1 of 1222)": "White-faced Storm-Petrel (196 of 1222)"
+        },
+        {
+            "BE": "WTTR",
+            "Bald Eagle (1 of 1222)": "White-tailed Tropicbird (197 of 1222)"
+        },
+        {
+            "BE": "RBTR",
+            "Bald Eagle (1 of 1222)": "Red-billed Tropicbird (198 of 1222)"
+        },
+        {
+            "BE": "RTTR",
+            "Bald Eagle (1 of 1222)": "Red-tailed Tropicbird (199 of 1222)"
+        },
+        {
+            "BE": "MABO",
+            "Bald Eagle (1 of 1222)": "Masked Booby (200 of 1222)"
+        },
+        {
+            "BE": "BFBO",
+            "Bald Eagle (1 of 1222)": "Blue-footed Booby (201 of 1222)"
+        },
+        {
+            "BE": "NABO",
+            "Bald Eagle (1 of 1222)": "Nazca Booby (202 of 1222)"
+        },
+        {
+            "BE": "BRBO",
+            "Bald Eagle (1 of 1222)": "Brown Booby (203 of 1222)"
+        },
+        {
+            "BE": "RFBO",
+            "Bald Eagle (1 of 1222)": "Red-footed Booby (204 of 1222)"
+        },
+        {
+            "BE": "NOGA",
+            "Bald Eagle (1 of 1222)": "Northern Gannet (205 of 1222)"
+        },
+        {
+            "BE": "ANHI",
+            "Bald Eagle (1 of 1222)": "Anhinga (206 of 1222)"
+        },
+        {
+            "BE": "GRCO",
+            "Bald Eagle (1 of 1222)": "Great Cormorant (207 of 1222)"
+        },
+        {
+            "BE": "DCCO",
+            "Bald Eagle (1 of 1222)": "Double-crested Cormorant (208 of 1222)"
+        },
+        {
+            "BE": "GUCO",
+            "Bald Eagle (1 of 1222)": "Guanay Cormorant (209 of 1222)"
+        },
+        {
+            "BE": "NECO",
+            "Bald Eagle (1 of 1222)": "Neotropic Cormorant (210 of 1222)"
+        },
+        {
+            "BE": "BRAC",
+            "Bald Eagle (1 of 1222)": "Brandt's Cormorant (211 of 1222)"
+        },
+        {
+            "BE": "PECO",
+            "Bald Eagle (1 of 1222)": "Pelagic Cormorant (212 of 1222)"
+        },
+        {
+            "BE": "RFCO",
+            "Bald Eagle (1 of 1222)": "Red-faced Cormorant (213 of 1222)"
+        },
+        {
+            "BE": "AWPE",
+            "Bald Eagle (1 of 1222)": "American White Pelican (214 of 1222)"
+        },
+        {
+            "BE": "BRPE",
+            "Bald Eagle (1 of 1222)": "Brown Pelican (215 of 1222)"
+        },
+        {
+            "BE": "MAFR",
+            "Bald Eagle (1 of 1222)": "Magnificent Frigatebird (216 of 1222)"
+        },
+        {
+            "BE": "GRFR",
+            "Bald Eagle (1 of 1222)": "Great Frigatebird (217 of 1222)"
+        },
+        {
+            "BE": "LEFR",
+            "Bald Eagle (1 of 1222)": "Lesser Frigatebird (218 of 1222)"
+        },
+        {
+            "BE": "COME",
+            "Bald Eagle (1 of 1222)": "Common Merganser (219 of 1222)"
+        },
+        {
+            "BE": "RBME",
+            "Bald Eagle (1 of 1222)": "Red-breasted Merganser (220 of 1222)"
+        },
+        {
+            "BE": "HOME",
+            "Bald Eagle (1 of 1222)": "Hooded Merganser (221 of 1222)"
+        },
+        {
+            "BE": "MALL",
+            "Bald Eagle (1 of 1222)": "Mallard (222 of 1222)"
+        },
+        {
+            "BE": "HAWD",
+            "Bald Eagle (1 of 1222)": "Hawaiian Duck (223 of 1222)"
+        },
+        {
+            "BE": "LADU",
+            "Bald Eagle (1 of 1222)": "Laysan Duck (224 of 1222)"
+        },
+        {
+            "BE": "MHDH",
+            "Bald Eagle (1 of 1222)": "Mallard X Hawaiian Duck Hybrid (225 of 1222)"
+        },
+        {
+            "BE": "MBDX",
+            "Bald Eagle (1 of 1222)": "Mallard X American Black Duck Intermediate (226 of 1222)"
+        },
+        {
+            "BE": "MBDH",
+            "Bald Eagle (1 of 1222)": "Mallard X American Black Duck Hybrid (227 of 1222)"
+        },
+        {
+            "BE": "MALX",
+            "Bald Eagle (1 of 1222)": "Mallard Dominant X American Black Duck Hybrid (228 of 1222)"
+        },
+        {
+            "BE": "ABDU",
+            "Bald Eagle (1 of 1222)": "American Black Duck (229 of 1222)"
+        },
+        {
+            "BE": "MEDU",
+            "Bald Eagle (1 of 1222)": "Mexican Duck (230 of 1222)"
+        },
+        {
+            "BE": "ABDX",
+            "Bald Eagle (1 of 1222)": "American Black Duck Dominant X Mallard Hybrid (231 of 1222)"
+        },
+        {
+            "BE": "MODU",
+            "Bald Eagle (1 of 1222)": "Mottled Duck (232 of 1222)"
+        },
+        {
+            "BE": "GADW",
+            "Bald Eagle (1 of 1222)": "Gadwall (233 of 1222)"
+        },
+        {
+            "BE": "EUWI",
+            "Bald Eagle (1 of 1222)": "Eurasian Wigeon (234 of 1222)"
+        },
+        {
+            "BE": "AMWI",
+            "Bald Eagle (1 of 1222)": "American Wigeon (235 of 1222)"
+        },
+        {
+            "BE": "FATE",
+            "Bald Eagle (1 of 1222)": "Falcated Teal (236 of 1222)"
+        },
+        {
+            "BE": "GWTE",
+            "Bald Eagle (1 of 1222)": "Green-winged Teal species (237 of 1222)"
+        },
+        {
+            "BE": "EGWT",
+            "Bald Eagle (1 of 1222)": "European Green-winged Teal (238 of 1222)"
+        },
+        {
+            "BE": "AGWT",
+            "Bald Eagle (1 of 1222)": "Green-winged Teal (239 of 1222)"
+        },
+        {
+            "BE": "BATE",
+            "Bald Eagle (1 of 1222)": "Baikal Teal (240 of 1222)"
+        },
+        {
+            "BE": "GARG",
+            "Bald Eagle (1 of 1222)": "Garganey (241 of 1222)"
+        },
+        {
+            "BE": "BWTE",
+            "Bald Eagle (1 of 1222)": "Blue-winged Teal (242 of 1222)"
+        },
+        {
+            "BE": "UNTE",
+            "Bald Eagle (1 of 1222)": "Unidentified Teal (243 of 1222)"
+        },
+        {
+            "BE": "CITE",
+            "Bald Eagle (1 of 1222)": "Cinnamon Teal (244 of 1222)"
+        },
+        {
+            "BE": "NSHO",
+            "Bald Eagle (1 of 1222)": "Northern Shoveler (245 of 1222)"
+        },
+        {
+            "BE": "NOPI",
+            "Bald Eagle (1 of 1222)": "Northern Pintail (246 of 1222)"
+        },
+        {
+            "BE": "WHIP",
+            "Bald Eagle (1 of 1222)": "White-cheeked Pintail (247 of 1222)"
+        },
+        {
+            "BE": "OHDU",
+            "Bald Eagle (1 of 1222)": "Other Hybrid Duck (248 of 1222)"
+        },
+        {
+            "BE": "WODU",
+            "Bald Eagle (1 of 1222)": "Wood Duck (249 of 1222)"
+        },
+        {
+            "BE": "MUDU",
+            "Bald Eagle (1 of 1222)": "Muscovy Duck (250 of 1222)"
+        },
+        {
+            "BE": "REDH",
+            "Bald Eagle (1 of 1222)": "Redhead (251 of 1222)"
+        },
+        {
+            "BE": "CPOC",
+            "Bald Eagle (1 of 1222)": "Common Pochard (252 of 1222)"
+        },
+        {
+            "BE": "CANV",
+            "Bald Eagle (1 of 1222)": "Canvasback (253 of 1222)"
+        },
+        {
+            "BE": "GRSC",
+            "Bald Eagle (1 of 1222)": "Greater Scaup (254 of 1222)"
+        },
+        {
+            "BE": "LESC",
+            "Bald Eagle (1 of 1222)": "Lesser Scaup (255 of 1222)"
+        },
+        {
+            "BE": "TUDU",
+            "Bald Eagle (1 of 1222)": "Tufted Duck (256 of 1222)"
+        },
+        {
+            "BE": "RNDU",
+            "Bald Eagle (1 of 1222)": "Ring-necked Duck (257 of 1222)"
+        },
+        {
+            "BE": "COGO",
+            "Bald Eagle (1 of 1222)": "Common Goldeneye (258 of 1222)"
+        },
+        {
+            "BE": "BAGO",
+            "Bald Eagle (1 of 1222)": "Barrow's Goldeneye (259 of 1222)"
+        },
+        {
+            "BE": "BUFF",
+            "Bald Eagle (1 of 1222)": "Bufflehead (260 of 1222)"
+        },
+        {
+            "BE": "LTDU",
+            "Bald Eagle (1 of 1222)": "Long-tailed Duck (261 of 1222)"
+        },
+        {
+            "BE": "HARD",
+            "Bald Eagle (1 of 1222)": "Harlequin Duck (262 of 1222)"
+        },
+        {
+            "BE": "STEI",
+            "Bald Eagle (1 of 1222)": "Steller's Eider (263 of 1222)"
+        },
+        {
+            "BE": "SPEI",
+            "Bald Eagle (1 of 1222)": "Spectacled Eider (264 of 1222)"
+        },
+        {
+            "BE": "COEI",
+            "Bald Eagle (1 of 1222)": "Common Eider (265 of 1222)"
+        },
+        {
+            "BE": "KIEI",
+            "Bald Eagle (1 of 1222)": "King Eider (266 of 1222)"
+        },
+        {
+            "BE": "BLSC",
+            "Bald Eagle (1 of 1222)": "Black Scoter (267 of 1222)"
+        },
+        {
+            "BE": "WWSC",
+            "Bald Eagle (1 of 1222)": "White-winged Scoter (268 of 1222)"
+        },
+        {
+            "BE": "SUSC",
+            "Bald Eagle (1 of 1222)": "Surf Scoter (269 of 1222)"
+        },
+        {
+            "BE": "RUDU",
+            "Bald Eagle (1 of 1222)": "Ruddy Duck (270 of 1222)"
+        },
+        {
+            "BE": "MADU",
+            "Bald Eagle (1 of 1222)": "Masked Duck (271 of 1222)"
+        },
+        {
+            "BE": "LSGO",
+            "Bald Eagle (1 of 1222)": "Lesser Snow Goose (272 of 1222)"
+        },
+        {
+            "BE": "BLGO",
+            "Bald Eagle (1 of 1222)": "Blue Goose (273 of 1222)"
+        },
+        {
+            "BE": "SBGI",
+            "Bald Eagle (1 of 1222)": "Snow X Blue Goose Intergrade (274 of 1222)"
+        },
+        {
+            "BE": "BGSG",
+            "Bald Eagle (1 of 1222)": "Blue Greater Snow Goose (275 of 1222)"
+        },
+        {
+            "BE": "GSGO",
+            "Bald Eagle (1 of 1222)": "Greater Snow Goose (276 of 1222)"
+        },
+        {
+            "BE": "ROGO",
+            "Bald Eagle (1 of 1222)": "Ross's Goose (277 of 1222)"
+        },
+        {
+            "BE": "SRGH",
+            "Bald Eagle (1 of 1222)": "Snow X Ross's Goose Hybrid (278 of 1222)"
+        },
+        {
+            "BE": "GWFG",
+            "Bald Eagle (1 of 1222)": "Greater White-fronted Goose (279 of 1222)"
+        },
+        {
+            "BE": "TABG",
+            "Bald Eagle (1 of 1222)": "Taiga Bean-Goose (280 of 1222)"
+        },
+        {
+            "BE": "PFGO",
+            "Bald Eagle (1 of 1222)": "Pink-footed Goose (281 of 1222)"
+        },
+        {
+            "BE": "LWFG",
+            "Bald Eagle (1 of 1222)": "Lesser White-fronted Goose (282 of 1222)"
+        },
+        {
+            "BE": "OHGO",
+            "Bald Eagle (1 of 1222)": "Other Hybrid Goose (283 of 1222)"
+        },
+        {
+            "BE": "TWFG",
+            "Bald Eagle (1 of 1222)": "Tule White-fronted Goose (284 of 1222)"
+        },
+        {
+            "BE": "CAGO",
+            "Bald Eagle (1 of 1222)": "Canada Goose (285 of 1222)"
+        },
+        {
+            "BE": "ACGO",
+            "Bald Eagle (1 of 1222)": "Aleutian Canada Goose (286 of 1222)"
+        },
+        {
+            "BE": "CACG",
+            "Bald Eagle (1 of 1222)": "Cackling Goose (287 of 1222)"
+        },
+        {
+            "BE": "LCGO",
+            "Bald Eagle (1 of 1222)": "Large Canada Goose (288 of 1222)"
+        },
+        {
+            "BE": "SCGO",
+            "Bald Eagle (1 of 1222)": "Small Canada Goose (289 of 1222)"
+        },
+        {
+            "BE": "ATBR",
+            "Bald Eagle (1 of 1222)": "Atlantic Brant (290 of 1222)"
+        },
+        {
+            "BE": "BABI",
+            "Bald Eagle (1 of 1222)": "Black X Atlantic Brant Intergrade (291 of 1222)"
+        },
+        {
+            "BE": "BLBR",
+            "Bald Eagle (1 of 1222)": "Black Brant (292 of 1222)"
+        },
+        {
+            "BE": "BRNG",
+            "Bald Eagle (1 of 1222)": "Barnacle Goose (293 of 1222)"
+        },
+        {
+            "BE": "HAGO",
+            "Bald Eagle (1 of 1222)": "Hawaiian Goose (294 of 1222)"
+        },
+        {
+            "BE": "EMGO",
+            "Bald Eagle (1 of 1222)": "Emperor Goose (295 of 1222)"
+        },
+        {
+            "BE": "BBWD",
+            "Bald Eagle (1 of 1222)": "Black-bellied Whistling-Duck (296 of 1222)"
+        },
+        {
+            "BE": "WIWD",
+            "Bald Eagle (1 of 1222)": "West Indian Whistling-Duck (297 of 1222)"
+        },
+        {
+            "BE": "FUWD",
+            "Bald Eagle (1 of 1222)": "Fulvous Whistling-Duck (298 of 1222)"
+        },
+        {
+            "BE": "MUSW",
+            "Bald Eagle (1 of 1222)": "Mute Swan (299 of 1222)"
+        },
+        {
+            "BE": "WHOS",
+            "Bald Eagle (1 of 1222)": "Whooper Swan (300 of 1222)"
+        },
+        {
+            "BE": "WHSW",
+            "Bald Eagle (1 of 1222)": "Whistling Swan (301 of 1222)"
+        },
+        {
+            "BE": "BESW",
+            "Bald Eagle (1 of 1222)": "Bewick's Swan (302 of 1222)"
+        },
+        {
+            "BE": "TRUS",
+            "Bald Eagle (1 of 1222)": "Trumpeter Swan (303 of 1222)"
+        },
+        {
+            "BE": "AMFL",
+            "Bald Eagle (1 of 1222)": "American Flamingo (304 of 1222)"
+        },
+        {
+            "BE": "ROSP",
+            "Bald Eagle (1 of 1222)": "Roseate Spoonbill (305 of 1222)"
+        },
+        {
+            "BE": "WHIB",
+            "Bald Eagle (1 of 1222)": "White Ibis (306 of 1222)"
+        },
+        {
+            "BE": "SCIB",
+            "Bald Eagle (1 of 1222)": "Scarlet Ibis (307 of 1222)"
+        },
+        {
+            "BE": "GLIB",
+            "Bald Eagle (1 of 1222)": "Glossy Ibis (308 of 1222)"
+        },
+        {
+            "BE": "WFIB",
+            "Bald Eagle (1 of 1222)": "White-faced Ibis (309 of 1222)"
+        },
+        {
+            "BE": "WOST",
+            "Bald Eagle (1 of 1222)": "Wood Stork (310 of 1222)"
+        },
+        {
+            "BE": "AMBI",
+            "Bald Eagle (1 of 1222)": "American Bittern (311 of 1222)"
+        },
+        {
+            "BE": "LEBI",
+            "Bald Eagle (1 of 1222)": "Least Bittern (312 of 1222)"
+        },
+        {
+            "BE": "YEBI",
+            "Bald Eagle (1 of 1222)": "Yellow Bittern (313 of 1222)"
+        },
+        {
+            "BE": "GWHE",
+            "Bald Eagle (1 of 1222)": "Great White Heron (314 of 1222)"
+        },
+        {
+            "BE": "GBHE",
+            "Bald Eagle (1 of 1222)": "Great Blue Heron (315 of 1222)"
+        },
+        {
+            "BE": "GREG",
+            "Bald Eagle (1 of 1222)": "Great Egret (316 of 1222)"
+        },
+        {
+            "BE": "PRHE",
+            "Bald Eagle (1 of 1222)": "Pacific Reef Heron (317 of 1222)"
+        },
+        {
+            "BE": "SNEG",
+            "Bald Eagle (1 of 1222)": "Snowy Egret (318 of 1222)"
+        },
+        {
+            "BE": "REEG",
+            "Bald Eagle (1 of 1222)": "Reddish Egret (319 of 1222)"
+        },
+        {
+            "BE": "TRHE",
+            "Bald Eagle (1 of 1222)": "Tricolored Heron (320 of 1222)"
+        },
+        {
+            "BE": "LBHE",
+            "Bald Eagle (1 of 1222)": "Little Blue Heron (321 of 1222)"
+        },
+        {
+            "BE": "CAEG",
+            "Bald Eagle (1 of 1222)": "Cattle Egret (322 of 1222)"
+        },
+        {
+            "BE": "GRHE",
+            "Bald Eagle (1 of 1222)": "Green Heron (323 of 1222)"
+        },
+        {
+            "BE": "BCNH",
+            "Bald Eagle (1 of 1222)": "Black-crowned Night-Heron (324 of 1222)"
+        },
+        {
+            "BE": "YCNH",
+            "Bald Eagle (1 of 1222)": "Yellow-crowned Night-Heron (325 of 1222)"
+        },
+        {
+            "BE": "WHCR",
+            "Bald Eagle (1 of 1222)": "Whooping Crane (326 of 1222)"
+        },
+        {
+            "BE": "SACR",
+            "Bald Eagle (1 of 1222)": "Sandhill Crane (327 of 1222)"
+        },
+        {
+            "BE": "MSCR",
+            "Bald Eagle (1 of 1222)": "Mississippi Sandhill Crane (328 of 1222)"
+        },
+        {
+            "BE": "LIMP",
+            "Bald Eagle (1 of 1222)": "Limpkin (329 of 1222)"
+        },
+        {
+            "BE": "KIRA",
+            "Bald Eagle (1 of 1222)": "King Rail (330 of 1222)"
+        },
+        {
+            "BE": "CLRA",
+            "Bald Eagle (1 of 1222)": "Clapper Rail (331 of 1222)"
+        },
+        {
+            "BE": "RIRA",
+            "Bald Eagle (1 of 1222)": "Ridgway's Rail (332 of 1222)"
+        },
+        {
+            "BE": "VIRA",
+            "Bald Eagle (1 of 1222)": "Virginia Rail (333 of 1222)"
+        },
+        {
+            "BE": "YBCR",
+            "Bald Eagle (1 of 1222)": "Yellow-breasted Crake (334 of 1222)"
+        },
+        {
+            "BE": "SORA",
+            "Bald Eagle (1 of 1222)": "Sora (335 of 1222)"
+        },
+        {
+            "BE": "YERA",
+            "Bald Eagle (1 of 1222)": "Yellow Rail (336 of 1222)"
+        },
+        {
+            "BE": "BLRA",
+            "Bald Eagle (1 of 1222)": "Black Rail (337 of 1222)"
+        },
+        {
+            "BE": "BBRA",
+            "Bald Eagle (1 of 1222)": "Buff-banded Rail (338 of 1222)"
+        },
+        {
+            "BE": "PUGA",
+            "Bald Eagle (1 of 1222)": "Purple Gallinule (339 of 1222)"
+        },
+        {
+            "BE": "PUSW",
+            "Bald Eagle (1 of 1222)": "Purple Swamphen (340 of 1222)"
+        },
+        {
+            "BE": "COGA",
+            "Bald Eagle (1 of 1222)": "Common Gallinule (341 of 1222)"
+        },
+        {
+            "BE": "HAGA",
+            "Bald Eagle (1 of 1222)": "Hawaiian Gallinule (342 of 1222)"
+        },
+        {
+            "BE": "MCMO",
+            "Bald Eagle (1 of 1222)": "Mariana Common Moorhen (343 of 1222)"
+        },
+        {
+            "BE": "HACO",
+            "Bald Eagle (1 of 1222)": "Hawaiian Coot (344 of 1222)"
+        },
+        {
+            "BE": "AMCO",
+            "Bald Eagle (1 of 1222)": "American Coot (345 of 1222)"
+        },
+        {
+            "BE": "CARC",
+            "Bald Eagle (1 of 1222)": "Caribbean Coot (346 of 1222)"
+        },
+        {
+            "BE": "REPH",
+            "Bald Eagle (1 of 1222)": "Red Phalarope (347 of 1222)"
+        },
+        {
+            "BE": "RNPH",
+            "Bald Eagle (1 of 1222)": "Red-necked Phalarope (348 of 1222)"
+        },
+        {
+            "BE": "WIPH",
+            "Bald Eagle (1 of 1222)": "Wilson's Phalarope (349 of 1222)"
+        },
+        {
+            "BE": "AMAV",
+            "Bald Eagle (1 of 1222)": "American Avocet (350 of 1222)"
+        },
+        {
+            "BE": "BNST",
+            "Bald Eagle (1 of 1222)": "Black-necked Stilt (351 of 1222)"
+        },
+        {
+            "BE": "HAST",
+            "Bald Eagle (1 of 1222)": "Hawaiian Stilt (352 of 1222)"
+        },
+        {
+            "BE": "EUWO",
+            "Bald Eagle (1 of 1222)": "Eurasian Woodcock (353 of 1222)"
+        },
+        {
+            "BE": "AMWO",
+            "Bald Eagle (1 of 1222)": "American Woodcock (354 of 1222)"
+        },
+        {
+            "BE": "WISN",
+            "Bald Eagle (1 of 1222)": "Wilson's Snipe (355 of 1222)"
+        },
+        {
+            "BE": "PTSN",
+            "Bald Eagle (1 of 1222)": "Pin-tailed Snipe (356 of 1222)"
+        },
+        {
+            "BE": "SWSN",
+            "Bald Eagle (1 of 1222)": "Swinhoe's Snipe (357 of 1222)"
+        },
+        {
+            "BE": "SBDO",
+            "Bald Eagle (1 of 1222)": "Short-billed Dowitcher (358 of 1222)"
+        },
+        {
+            "BE": "LBDO",
+            "Bald Eagle (1 of 1222)": "Long-billed Dowitcher (359 of 1222)"
+        },
+        {
+            "BE": "STSA",
+            "Bald Eagle (1 of 1222)": "Stilt Sandpiper (360 of 1222)"
+        },
+        {
+            "BE": "REKN",
+            "Bald Eagle (1 of 1222)": "Red Knot (361 of 1222)"
+        },
+        {
+            "BE": "RRKN",
+            "Bald Eagle (1 of 1222)": "Rufa Red Knot (362 of 1222)"
+        },
+        {
+            "BE": "PUSA",
+            "Bald Eagle (1 of 1222)": "Purple Sandpiper (363 of 1222)"
+        },
+        {
+            "BE": "ROSA",
+            "Bald Eagle (1 of 1222)": "Rock Sandpiper (364 of 1222)"
+        },
+        {
+            "BE": "SHAS",
+            "Bald Eagle (1 of 1222)": "Sharp-tailed Sandpiper (365 of 1222)"
+        },
+        {
+            "BE": "PESA",
+            "Bald Eagle (1 of 1222)": "Pectoral Sandpiper (366 of 1222)"
+        },
+        {
+            "BE": "WRSA",
+            "Bald Eagle (1 of 1222)": "White-rumped Sandpiper (367 of 1222)"
+        },
+        {
+            "BE": "BASA",
+            "Bald Eagle (1 of 1222)": "Baird's Sandpiper (368 of 1222)"
+        },
+        {
+            "BE": "LESA",
+            "Bald Eagle (1 of 1222)": "Least Sandpiper (369 of 1222)"
+        },
+        {
+            "BE": "RNST",
+            "Bald Eagle (1 of 1222)": "Red-necked Stint (370 of 1222)"
+        },
+        {
+            "BE": "LTST",
+            "Bald Eagle (1 of 1222)": "Long-toed Stint (371 of 1222)"
+        },
+        {
+            "BE": "DUNL",
+            "Bald Eagle (1 of 1222)": "Dunlin (372 of 1222)"
+        },
+        {
+            "BE": "CUSA",
+            "Bald Eagle (1 of 1222)": "Curlew Sandpiper (373 of 1222)"
+        },
+        {
+            "BE": "SPOS",
+            "Bald Eagle (1 of 1222)": "Spoon-billed Sandpiper (374 of 1222)"
+        },
+        {
+            "BE": "SESA",
+            "Bald Eagle (1 of 1222)": "Semipalmated Sandpiper (375 of 1222)"
+        },
+        {
+            "BE": "WESA",
+            "Bald Eagle (1 of 1222)": "Western Sandpiper (376 of 1222)"
+        },
+        {
+            "BE": "SAND",
+            "Bald Eagle (1 of 1222)": "Sanderling (377 of 1222)"
+        },
+        {
+            "BE": "MAGO",
+            "Bald Eagle (1 of 1222)": "Marbled Godwit (378 of 1222)"
+        },
+        {
+            "BE": "BARG",
+            "Bald Eagle (1 of 1222)": "Bar-tailed Godwit (379 of 1222)"
+        },
+        {
+            "BE": "HUGO",
+            "Bald Eagle (1 of 1222)": "Hudsonian Godwit (380 of 1222)"
+        },
+        {
+            "BE": "BLAG",
+            "Bald Eagle (1 of 1222)": "Black-tailed Godwit (381 of 1222)"
+        },
+        {
+            "BE": "GRYE",
+            "Bald Eagle (1 of 1222)": "Greater Yellowlegs (382 of 1222)"
+        },
+        {
+            "BE": "LEYE",
+            "Bald Eagle (1 of 1222)": "Lesser Yellowlegs (383 of 1222)"
+        },
+        {
+            "BE": "SOSA",
+            "Bald Eagle (1 of 1222)": "Solitary Sandpiper (384 of 1222)"
+        },
+        {
+            "BE": "WOSA",
+            "Bald Eagle (1 of 1222)": "Wood Sandpiper (385 of 1222)"
+        },
+        {
+            "BE": "MASA",
+            "Bald Eagle (1 of 1222)": "Marsh Sandpiper (386 of 1222)"
+        },
+        {
+            "BE": "WILL",
+            "Bald Eagle (1 of 1222)": "Willet (387 of 1222)"
+        },
+        {
+            "BE": "WATA",
+            "Bald Eagle (1 of 1222)": "Wandering Tattler (388 of 1222)"
+        },
+        {
+            "BE": "GTTA",
+            "Bald Eagle (1 of 1222)": "Gray-tailed Tattler (389 of 1222)"
+        },
+        {
+            "BE": "RUFF",
+            "Bald Eagle (1 of 1222)": "Ruff (390 of 1222)"
+        },
+        {
+            "BE": "UPSA",
+            "Bald Eagle (1 of 1222)": "Upland Sandpiper (391 of 1222)"
+        },
+        {
+            "BE": "BBSA",
+            "Bald Eagle (1 of 1222)": "Buff-breasted Sandpiper (392 of 1222)"
+        },
+        {
+            "BE": "SPSA",
+            "Bald Eagle (1 of 1222)": "Spotted Sandpiper (393 of 1222)"
+        },
+        {
+            "BE": "COSA",
+            "Bald Eagle (1 of 1222)": "Common Sandpiper (394 of 1222)"
+        },
+        {
+            "BE": "LBCU",
+            "Bald Eagle (1 of 1222)": "Long-billed Curlew (395 of 1222)"
+        },
+        {
+            "BE": "WHIM",
+            "Bald Eagle (1 of 1222)": "Whimbrel (396 of 1222)"
+        },
+        {
+            "BE": "BTCU",
+            "Bald Eagle (1 of 1222)": "Bristle-thighed Curlew (397 of 1222)"
+        },
+        {
+            "BE": "NOLA",
+            "Bald Eagle (1 of 1222)": "Northern Lapwing (398 of 1222)"
+        },
+        {
+            "BE": "EUDO",
+            "Bald Eagle (1 of 1222)": "Eurasian Dotterel (399 of 1222)"
+        },
+        {
+            "BE": "BBPL",
+            "Bald Eagle (1 of 1222)": "Black-bellied Plover (400 of 1222)"
+        },
+        {
+            "BE": "EUGP",
+            "Bald Eagle (1 of 1222)": "European Golden-Plover (401 of 1222)"
+        },
+        {
+            "BE": "AMGP",
+            "Bald Eagle (1 of 1222)": "American Golden-Plover (402 of 1222)"
+        },
+        {
+            "BE": "PAGP",
+            "Bald Eagle (1 of 1222)": "Pacific Golden-Plover (403 of 1222)"
+        },
+        {
+            "BE": "LEGP",
+            "Bald Eagle (1 of 1222)": "Lesser Golden-Plover (404 of 1222)"
+        },
+        {
+            "BE": "KILL",
+            "Bald Eagle (1 of 1222)": "Killdeer (405 of 1222)"
+        },
+        {
+            "BE": "SEPL",
+            "Bald Eagle (1 of 1222)": "Semipalmated Plover (406 of 1222)"
+        },
+        {
+            "BE": "CRPL",
+            "Bald Eagle (1 of 1222)": "Common Ringed Plover (407 of 1222)"
+        },
+        {
+            "BE": "PIPL",
+            "Bald Eagle (1 of 1222)": "Piping Plover (408 of 1222)"
+        },
+        {
+            "BE": "SNPL",
+            "Bald Eagle (1 of 1222)": "Snowy Plover (409 of 1222)"
+        },
+        {
+            "BE": "WSPL",
+            "Bald Eagle (1 of 1222)": "Western Snowy Plover (410 of 1222)"
+        },
+        {
+            "BE": "LRSP",
+            "Bald Eagle (1 of 1222)": "Lesser Sand-Plover (411 of 1222)"
+        },
+        {
+            "BE": "WIPL",
+            "Bald Eagle (1 of 1222)": "Wilson's Plover (412 of 1222)"
+        },
+        {
+            "BE": "MOPL",
+            "Bald Eagle (1 of 1222)": "Mountain Plover (413 of 1222)"
+        },
+        {
+            "BE": "SURF",
+            "Bald Eagle (1 of 1222)": "Surfbird (414 of 1222)"
+        },
+        {
+            "BE": "RUTU",
+            "Bald Eagle (1 of 1222)": "Ruddy Turnstone (415 of 1222)"
+        },
+        {
+            "BE": "BLTU",
+            "Bald Eagle (1 of 1222)": "Black Turnstone (416 of 1222)"
+        },
+        {
+            "BE": "AMOY",
+            "Bald Eagle (1 of 1222)": "American Oystercatcher (417 of 1222)"
+        },
+        {
+            "BE": "BLOY",
+            "Bald Eagle (1 of 1222)": "Black Oystercatcher (418 of 1222)"
+        },
+        {
+            "BE": "NOJA",
+            "Bald Eagle (1 of 1222)": "Northern Jacana (419 of 1222)"
+        },
+        {
+            "BE": "BTPI",
+            "Bald Eagle (1 of 1222)": "Band-tailed Pigeon (420 of 1222)"
+        },
+        {
+            "BE": "PLPI",
+            "Bald Eagle (1 of 1222)": "Plain Pigeon (421 of 1222)"
+        },
+        {
+            "BE": "PRPP",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Plain Pigeon (422 of 1222)"
+        },
+        {
+            "BE": "RBPI",
+            "Bald Eagle (1 of 1222)": "Red-billed Pigeon (423 of 1222)"
+        },
+        {
+            "BE": "WCPI",
+            "Bald Eagle (1 of 1222)": "White-crowned Pigeon (424 of 1222)"
+        },
+        {
+            "BE": "SNPI",
+            "Bald Eagle (1 of 1222)": "Scaly-naped Pigeon (425 of 1222)"
+        },
+        {
+            "BE": "SPDO",
+            "Bald Eagle (1 of 1222)": "Spotted Dove (426 of 1222)"
+        },
+        {
+            "BE": "AFCD",
+            "Bald Eagle (1 of 1222)": "African Collared-Dove (427 of 1222)"
+        },
+        {
+            "BE": "ZEBD",
+            "Bald Eagle (1 of 1222)": "Zebra Dove (428 of 1222)"
+        },
+        {
+            "BE": "WTGD",
+            "Bald Eagle (1 of 1222)": "White-throated Ground-Dove (429 of 1222)"
+        },
+        {
+            "BE": "MAFD",
+            "Bald Eagle (1 of 1222)": "Mariana Fruit Dove (430 of 1222)"
+        },
+        {
+            "BE": "PHTD",
+            "Bald Eagle (1 of 1222)": "Philippine Turtle-Dove (431 of 1222)"
+        },
+        {
+            "BE": "ECDO",
+            "Bald Eagle (1 of 1222)": "Eurasian Collared-Dove (432 of 1222)"
+        },
+        {
+            "BE": "MODO",
+            "Bald Eagle (1 of 1222)": "Mourning Dove (433 of 1222)"
+        },
+        {
+            "BE": "EADO",
+            "Bald Eagle (1 of 1222)": "Eared Dove (434 of 1222)"
+        },
+        {
+            "BE": "ZEND",
+            "Bald Eagle (1 of 1222)": "Zenaida Dove (435 of 1222)"
+        },
+        {
+            "BE": "WTDO",
+            "Bald Eagle (1 of 1222)": "White-tipped Dove (436 of 1222)"
+        },
+        {
+            "BE": "CADO",
+            "Bald Eagle (1 of 1222)": "Caribbean Dove (437 of 1222)"
+        },
+        {
+            "BE": "WWDO",
+            "Bald Eagle (1 of 1222)": "White-winged Dove (438 of 1222)"
+        },
+        {
+            "BE": "COGD",
+            "Bald Eagle (1 of 1222)": "Common Ground-Dove (439 of 1222)"
+        },
+        {
+            "BE": "RUGD",
+            "Bald Eagle (1 of 1222)": "Ruddy Ground-Dove (440 of 1222)"
+        },
+        {
+            "BE": "INDO",
+            "Bald Eagle (1 of 1222)": "Inca Dove (441 of 1222)"
+        },
+        {
+            "BE": "KWQD",
+            "Bald Eagle (1 of 1222)": "Key West Quail-Dove (442 of 1222)"
+        },
+        {
+            "BE": "RUQD",
+            "Bald Eagle (1 of 1222)": "Ruddy Quail-Dove (443 of 1222)"
+        },
+        {
+            "BE": "BRQD",
+            "Bald Eagle (1 of 1222)": "Bridled Quail-Dove (444 of 1222)"
+        },
+        {
+            "BE": "CALC",
+            "Bald Eagle (1 of 1222)": "California Condor (445 of 1222)"
+        },
+        {
+            "BE": "PSSH",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Sharp-shinned Hawk (446 of 1222)"
+        },
+        {
+            "BE": "HRLH",
+            "Bald Eagle (1 of 1222)": "Harlan's Hawk (447 of 1222)"
+        },
+        {
+            "BE": "RH",
+            "Bald Eagle (1 of 1222)": "Roadside Hawk (448 of 1222)"
+        },
+        {
+            "BE": "PBWH",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Broad-winged Hawk (449 of 1222)"
+        },
+        {
+            "BE": "HWHA",
+            "Bald Eagle (1 of 1222)": "Hawaiian Hawk (450 of 1222)"
+        },
+        {
+            "BE": "AP",
+            "Bald Eagle (1 of 1222)": "Aplomado Falcon (451 of 1222)"
+        },
+        {
+            "BE": "AK",
+            "Bald Eagle (1 of 1222)": "American Kestrel (452 of 1222)"
+        },
+        {
+            "BE": "ACCA",
+            "Bald Eagle (1 of 1222)": "Audubon's Crested Caracara (453 of 1222)"
+        },
+        {
+            "BE": "BNOW",
+            "Bald Eagle (1 of 1222)": "Barn Owl (454 of 1222)"
+        },
+        {
+            "BE": "AFOW",
+            "Bald Eagle (1 of 1222)": "Ashy-faced Owl (455 of 1222)"
+        },
+        {
+            "BE": "LEOW",
+            "Bald Eagle (1 of 1222)": "Long-eared Owl (456 of 1222)"
+        },
+        {
+            "BE": "SEOW",
+            "Bald Eagle (1 of 1222)": "Short-eared Owl (457 of 1222)"
+        },
+        {
+            "BE": "BDOW",
+            "Bald Eagle (1 of 1222)": "Barred Owl (458 of 1222)"
+        },
+        {
+            "BE": "SBOH",
+            "Bald Eagle (1 of 1222)": "Spotted X Barred Owl Hybrid (459 of 1222)"
+        },
+        {
+            "BE": "SPOW",
+            "Bald Eagle (1 of 1222)": "Spotted Owl (460 of 1222)"
+        },
+        {
+            "BE": "CSOW",
+            "Bald Eagle (1 of 1222)": "California Spotted Owl (461 of 1222)"
+        },
+        {
+            "BE": "NSOW",
+            "Bald Eagle (1 of 1222)": "Northern Spotted Owl (462 of 1222)"
+        },
+        {
+            "BE": "MSOW",
+            "Bald Eagle (1 of 1222)": "Mexican Spotted Owl (463 of 1222)"
+        },
+        {
+            "BE": "GGOW",
+            "Bald Eagle (1 of 1222)": "Great Gray Owl (464 of 1222)"
+        },
+        {
+            "BE": "BOOW",
+            "Bald Eagle (1 of 1222)": "Boreal Owl (465 of 1222)"
+        },
+        {
+            "BE": "NSWO",
+            "Bald Eagle (1 of 1222)": "Northern Saw-whet Owl (466 of 1222)"
+        },
+        {
+            "BE": "EASO",
+            "Bald Eagle (1 of 1222)": "Eastern Screech-Owl (467 of 1222)"
+        },
+        {
+            "BE": "WHSO",
+            "Bald Eagle (1 of 1222)": "Whiskered Screech-Owl (468 of 1222)"
+        },
+        {
+            "BE": "WESO",
+            "Bald Eagle (1 of 1222)": "Western Screech-Owl (469 of 1222)"
+        },
+        {
+            "BE": "PRSO",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Screech-Owl (470 of 1222)"
+        },
+        {
+            "BE": "FLOW",
+            "Bald Eagle (1 of 1222)": "Flammulated Owl (471 of 1222)"
+        },
+        {
+            "BE": "GHOW",
+            "Bald Eagle (1 of 1222)": "Great Horned Owl (472 of 1222)"
+        },
+        {
+            "BE": "SNOW",
+            "Bald Eagle (1 of 1222)": "Snowy Owl (473 of 1222)"
+        },
+        {
+            "BE": "NHOW",
+            "Bald Eagle (1 of 1222)": "Northern Hawk Owl (474 of 1222)"
+        },
+        {
+            "BE": "BUOW",
+            "Bald Eagle (1 of 1222)": "Burrowing Owl (475 of 1222)"
+        },
+        {
+            "BE": "NOPO",
+            "Bald Eagle (1 of 1222)": "Northern Pygmy-Owl (476 of 1222)"
+        },
+        {
+            "BE": "FEPO",
+            "Bald Eagle (1 of 1222)": "Ferruginous Pygmy-Owl (477 of 1222)"
+        },
+        {
+            "BE": "ELOW",
+            "Bald Eagle (1 of 1222)": "Elf Owl (478 of 1222)"
+        },
+        {
+            "BE": "BHPA",
+            "Bald Eagle (1 of 1222)": "Black-headed Parakeet (479 of 1222)"
+        },
+        {
+            "BE": "HPKT",
+            "Bald Eagle (1 of 1222)": "Hispaniolan Parakeet (480 of 1222)"
+        },
+        {
+            "BE": "OFPA",
+            "Bald Eagle (1 of 1222)": "Orange-fronted Parakeet (481 of 1222)"
+        },
+        {
+            "BE": "BTPA",
+            "Bald Eagle (1 of 1222)": "Brown-throated Parakeet (482 of 1222)"
+        },
+        {
+            "BE": "BCLO",
+            "Bald Eagle (1 of 1222)": "Blue-crowned Lorikeet (483 of 1222)"
+        },
+        {
+            "BE": "TBPA",
+            "Bald Eagle (1 of 1222)": "Thick-billed Parrot (484 of 1222)"
+        },
+        {
+            "BE": "MOPA",
+            "Bald Eagle (1 of 1222)": "Monk Parakeet (485 of 1222)"
+        },
+        {
+            "BE": "CHCO",
+            "Bald Eagle (1 of 1222)": "Cherry-head Conure (486 of 1222)"
+        },
+        {
+            "BE": "RCPA",
+            "Bald Eagle (1 of 1222)": "Red-crowned Parrot (487 of 1222)"
+        },
+        {
+            "BE": "HPRT",
+            "Bald Eagle (1 of 1222)": "Hispaniolan Parrot (488 of 1222)"
+        },
+        {
+            "BE": "PRPA",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Parrot (489 of 1222)"
+        },
+        {
+            "BE": "OWPA",
+            "Bald Eagle (1 of 1222)": "Orange-winged Parrot (490 of 1222)"
+        },
+        {
+            "BE": "SBAN",
+            "Bald Eagle (1 of 1222)": "Smooth-billed Ani (491 of 1222)"
+        },
+        {
+            "BE": "GBAN",
+            "Bald Eagle (1 of 1222)": "Groove-billed Ani (492 of 1222)"
+        },
+        {
+            "BE": "GRRO",
+            "Bald Eagle (1 of 1222)": "Greater Roadrunner (493 of 1222)"
+        },
+        {
+            "BE": "PRLC",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Lizard-Cuckoo (494 of 1222)"
+        },
+        {
+            "BE": "MACU",
+            "Bald Eagle (1 of 1222)": "Mangrove Cuckoo (495 of 1222)"
+        },
+        {
+            "BE": "YBCU",
+            "Bald Eagle (1 of 1222)": "Yellow-billed Cuckoo (496 of 1222)"
+        },
+        {
+            "BE": "WYBC",
+            "Bald Eagle (1 of 1222)": "Western Yellow-billed Cuckoo (497 of 1222)"
+        },
+        {
+            "BE": "BBCU",
+            "Bald Eagle (1 of 1222)": "Black-billed Cuckoo (498 of 1222)"
+        },
+        {
+            "BE": "ELTR",
+            "Bald Eagle (1 of 1222)": "Elegant Trogon (499 of 1222)"
+        },
+        {
+            "BE": "EAQU",
+            "Bald Eagle (1 of 1222)": "Eared Quetzal (500 of 1222)"
+        },
+        {
+            "BE": "BEKI",
+            "Bald Eagle (1 of 1222)": "Belted Kingfisher (501 of 1222)"
+        },
+        {
+            "BE": "RIKI",
+            "Bald Eagle (1 of 1222)": "Ringed Kingfisher (502 of 1222)"
+        },
+        {
+            "BE": "GKIN",
+            "Bald Eagle (1 of 1222)": "Green Kingfisher (503 of 1222)"
+        },
+        {
+            "BE": "PRTO",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Tody (504 of 1222)"
+        },
+        {
+            "BE": "IBWO",
+            "Bald Eagle (1 of 1222)": "Ivory-billed Woodpecker (505 of 1222)"
+        },
+        {
+            "BE": "HAWO",
+            "Bald Eagle (1 of 1222)": "Hairy Woodpecker (506 of 1222)"
+        },
+        {
+            "BE": "DOWO",
+            "Bald Eagle (1 of 1222)": "Downy Woodpecker (507 of 1222)"
+        },
+        {
+            "BE": "RCWO",
+            "Bald Eagle (1 of 1222)": "Red-cockaded Woodpecker (508 of 1222)"
+        },
+        {
+            "BE": "LBWO",
+            "Bald Eagle (1 of 1222)": "Ladder-backed Woodpecker (509 of 1222)"
+        },
+        {
+            "BE": "NUWO",
+            "Bald Eagle (1 of 1222)": "Nuttall's Woodpecker (510 of 1222)"
+        },
+        {
+            "BE": "ARWO",
+            "Bald Eagle (1 of 1222)": "Arizona Woodpecker (511 of 1222)"
+        },
+        {
+            "BE": "WHWO",
+            "Bald Eagle (1 of 1222)": "White-headed Woodpecker (512 of 1222)"
+        },
+        {
+            "BE": "BBWO",
+            "Bald Eagle (1 of 1222)": "Black-backed Woodpecker (513 of 1222)"
+        },
+        {
+            "BE": "ATTW",
+            "Bald Eagle (1 of 1222)": "American Three-toed Woodpecker (514 of 1222)"
+        },
+        {
+            "BE": "YBSA",
+            "Bald Eagle (1 of 1222)": "Yellow-bellied Sapsucker (515 of 1222)"
+        },
+        {
+            "BE": "RNSA",
+            "Bald Eagle (1 of 1222)": "Red-naped Sapsucker (516 of 1222)"
+        },
+        {
+            "BE": "HYSA",
+            "Bald Eagle (1 of 1222)": "Hybrid Sapsucker (517 of 1222)"
+        },
+        {
+            "BE": "RBSA",
+            "Bald Eagle (1 of 1222)": "Red-breasted Sapsucker (518 of 1222)"
+        },
+        {
+            "BE": "WISA",
+            "Bald Eagle (1 of 1222)": "Williamson's Sapsucker (519 of 1222)"
+        },
+        {
+            "BE": "PIWO",
+            "Bald Eagle (1 of 1222)": "Pileated Woodpecker (520 of 1222)"
+        },
+        {
+            "BE": "RHWO",
+            "Bald Eagle (1 of 1222)": "Red-headed Woodpecker (521 of 1222)"
+        },
+        {
+            "BE": "ACWO",
+            "Bald Eagle (1 of 1222)": "Acorn Woodpecker (522 of 1222)"
+        },
+        {
+            "BE": "PRWO",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Woodpecker (523 of 1222)"
+        },
+        {
+            "BE": "LEWO",
+            "Bald Eagle (1 of 1222)": "Lewis's Woodpecker (524 of 1222)"
+        },
+        {
+            "BE": "RBWO",
+            "Bald Eagle (1 of 1222)": "Red-bellied Woodpecker (525 of 1222)"
+        },
+        {
+            "BE": "WIWO",
+            "Bald Eagle (1 of 1222)": "West Indian Woodpecker (526 of 1222)"
+        },
+        {
+            "BE": "GFWO",
+            "Bald Eagle (1 of 1222)": "Golden-fronted Woodpecker (527 of 1222)"
+        },
+        {
+            "BE": "GIWO",
+            "Bald Eagle (1 of 1222)": "Gila Woodpecker (528 of 1222)"
+        },
+        {
+            "BE": "YSFL",
+            "Bald Eagle (1 of 1222)": "Yellow-shafted Flicker (529 of 1222)"
+        },
+        {
+            "BE": "FLIN",
+            "Bald Eagle (1 of 1222)": "Northern Flicker (530 of 1222)"
+        },
+        {
+            "BE": "RSFL",
+            "Bald Eagle (1 of 1222)": "Red-shafted Flicker (531 of 1222)"
+        },
+        {
+            "BE": "GIFL",
+            "Bald Eagle (1 of 1222)": "Gilded Flicker (532 of 1222)"
+        },
+        {
+            "BE": "CWWI",
+            "Bald Eagle (1 of 1222)": "Chuck-will's-widow (533 of 1222)"
+        },
+        {
+            "BE": "BCNI",
+            "Bald Eagle (1 of 1222)": "Buff-collared Nightjar (534 of 1222)"
+        },
+        {
+            "BE": "EWPW",
+            "Bald Eagle (1 of 1222)": "Eastern Whip-poor-will (535 of 1222)"
+        },
+        {
+            "BE": "PRNI",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Nightjar (536 of 1222)"
+        },
+        {
+            "BE": "MWPW",
+            "Bald Eagle (1 of 1222)": "Mexican Whip-poor-will (537 of 1222)"
+        },
+        {
+            "BE": "COPO",
+            "Bald Eagle (1 of 1222)": "Common Poorwill (538 of 1222)"
+        },
+        {
+            "BE": "COPA",
+            "Bald Eagle (1 of 1222)": "Common Pauraque (539 of 1222)"
+        },
+        {
+            "BE": "CONI",
+            "Bald Eagle (1 of 1222)": "Common Nighthawk (540 of 1222)"
+        },
+        {
+            "BE": "ANNI",
+            "Bald Eagle (1 of 1222)": "Antillean Nighthawk (541 of 1222)"
+        },
+        {
+            "BE": "LENI",
+            "Bald Eagle (1 of 1222)": "Lesser Nighthawk (542 of 1222)"
+        },
+        {
+            "BE": "BLSW",
+            "Bald Eagle (1 of 1222)": "Black Swift (543 of 1222)"
+        },
+        {
+            "BE": "CHSW",
+            "Bald Eagle (1 of 1222)": "Chimney Swift (544 of 1222)"
+        },
+        {
+            "BE": "STSW",
+            "Bald Eagle (1 of 1222)": "Short-tailed Swift (545 of 1222)"
+        },
+        {
+            "BE": "VASW",
+            "Bald Eagle (1 of 1222)": "Vaux's Swift (546 of 1222)"
+        },
+        {
+            "BE": "WTSW",
+            "Bald Eagle (1 of 1222)": "White-throated Swift (547 of 1222)"
+        },
+        {
+            "BE": "MAHU",
+            "Bald Eagle (1 of 1222)": "Magnificent Hummingbird (548 of 1222)"
+        },
+        {
+            "BE": "PCST",
+            "Bald Eagle (1 of 1222)": "Plain-capped Starthroat (549 of 1222)"
+        },
+        {
+            "BE": "BLUH",
+            "Bald Eagle (1 of 1222)": "Blue-throated Hummingbird (550 of 1222)"
+        },
+        {
+            "BE": "GVIO",
+            "Bald Eagle (1 of 1222)": "Green Violetear (551 of 1222)"
+        },
+        {
+            "BE": "RTHU",
+            "Bald Eagle (1 of 1222)": "Ruby-throated Hummingbird (552 of 1222)"
+        },
+        {
+            "BE": "BCHU",
+            "Bald Eagle (1 of 1222)": "Black-chinned Hummingbird (553 of 1222)"
+        },
+        {
+            "BE": "COHU",
+            "Bald Eagle (1 of 1222)": "Costa's Hummingbird (554 of 1222)"
+        },
+        {
+            "BE": "ANHU",
+            "Bald Eagle (1 of 1222)": "Anna's Hummingbird (555 of 1222)"
+        },
+        {
+            "BE": "BTLH",
+            "Bald Eagle (1 of 1222)": "Broad-tailed Hummingbird (556 of 1222)"
+        },
+        {
+            "BE": "RUHU",
+            "Bald Eagle (1 of 1222)": "Rufous Hummingbird (557 of 1222)"
+        },
+        {
+            "BE": "ALHU",
+            "Bald Eagle (1 of 1222)": "Allen's Hummingbird (558 of 1222)"
+        },
+        {
+            "BE": "BUHU",
+            "Bald Eagle (1 of 1222)": "Bumblebee Hummingbird (559 of 1222)"
+        },
+        {
+            "BE": "CAHU",
+            "Bald Eagle (1 of 1222)": "Calliope Hummingbird (560 of 1222)"
+        },
+        {
+            "BE": "JAMA",
+            "Bald Eagle (1 of 1222)": "Jamaican Mango (561 of 1222)"
+        },
+        {
+            "BE": "GRMA",
+            "Bald Eagle (1 of 1222)": "Green Mango (562 of 1222)"
+        },
+        {
+            "BE": "GTCA",
+            "Bald Eagle (1 of 1222)": "Green-throated Carib (563 of 1222)"
+        },
+        {
+            "BE": "ACHU",
+            "Bald Eagle (1 of 1222)": "Antillean Crested Hummingbird (564 of 1222)"
+        },
+        {
+            "BE": "GREM",
+            "Bald Eagle (1 of 1222)": "Green-breasted Mango (565 of 1222)"
+        },
+        {
+            "BE": "LUHU",
+            "Bald Eagle (1 of 1222)": "Lucifer Hummingbird (566 of 1222)"
+        },
+        {
+            "BE": "BAWO",
+            "Bald Eagle (1 of 1222)": "Bahama Woodstar (567 of 1222)"
+        },
+        {
+            "BE": "RUFH",
+            "Bald Eagle (1 of 1222)": "Rufous-tailed Hummingbird (568 of 1222)"
+        },
+        {
+            "BE": "BEHU",
+            "Bald Eagle (1 of 1222)": "Berylline Hummingbird (569 of 1222)"
+        },
+        {
+            "BE": "BUFH",
+            "Bald Eagle (1 of 1222)": "Buff-bellied Hummingbird (570 of 1222)"
+        },
+        {
+            "BE": "VCHU",
+            "Bald Eagle (1 of 1222)": "Violet-crowned Hummingbird (571 of 1222)"
+        },
+        {
+            "BE": "WEHU",
+            "Bald Eagle (1 of 1222)": "White-eared Hummingbird (572 of 1222)"
+        },
+        {
+            "BE": "PREM",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Emerald (573 of 1222)"
+        },
+        {
+            "BE": "HYHU",
+            "Bald Eagle (1 of 1222)": "Hybrid Hummingbird (574 of 1222)"
+        },
+        {
+            "BE": "UNHU",
+            "Bald Eagle (1 of 1222)": "Unidentified Hummingbird (575 of 1222)"
+        },
+        {
+            "BE": "BBLH",
+            "Bald Eagle (1 of 1222)": "Broad-billed Hummingbird (576 of 1222)"
+        },
+        {
+            "BE": "RTBE",
+            "Bald Eagle (1 of 1222)": "Rose-throated Becard (577 of 1222)"
+        },
+        {
+            "BE": "FTFL",
+            "Bald Eagle (1 of 1222)": "Fork-tailed Flycatcher (578 of 1222)"
+        },
+        {
+            "BE": "STFL",
+            "Bald Eagle (1 of 1222)": "Scissor-tailed Flycatcher (579 of 1222)"
+        },
+        {
+            "BE": "EAKI",
+            "Bald Eagle (1 of 1222)": "Eastern Kingbird (580 of 1222)"
+        },
+        {
+            "BE": "GRAK",
+            "Bald Eagle (1 of 1222)": "Gray Kingbird (581 of 1222)"
+        },
+        {
+            "BE": "TBKI",
+            "Bald Eagle (1 of 1222)": "Thick-billed Kingbird (582 of 1222)"
+        },
+        {
+            "BE": "LOKI",
+            "Bald Eagle (1 of 1222)": "Loggerhead Kingbird (583 of 1222)"
+        },
+        {
+            "BE": "TRKI",
+            "Bald Eagle (1 of 1222)": "Tropical Kingbird (584 of 1222)"
+        },
+        {
+            "BE": "COKI",
+            "Bald Eagle (1 of 1222)": "Couch's Kingbird (585 of 1222)"
+        },
+        {
+            "BE": "WEKI",
+            "Bald Eagle (1 of 1222)": "Western Kingbird (586 of 1222)"
+        },
+        {
+            "BE": "CAKI",
+            "Bald Eagle (1 of 1222)": "Cassin's Kingbird (587 of 1222)"
+        },
+        {
+            "BE": "GKIS",
+            "Bald Eagle (1 of 1222)": "Great Kiskadee (588 of 1222)"
+        },
+        {
+            "BE": "SBFL",
+            "Bald Eagle (1 of 1222)": "Sulphur-bellied Flycatcher (589 of 1222)"
+        },
+        {
+            "BE": "GCFL",
+            "Bald Eagle (1 of 1222)": "Great Crested Flycatcher (590 of 1222)"
+        },
+        {
+            "BE": "BCFL",
+            "Bald Eagle (1 of 1222)": "Brown-crested Flycatcher (591 of 1222)"
+        },
+        {
+            "BE": "NUFL",
+            "Bald Eagle (1 of 1222)": "Nutting's Flycatcher (592 of 1222)"
+        },
+        {
+            "BE": "ATFL",
+            "Bald Eagle (1 of 1222)": "Ash-throated Flycatcher (593 of 1222)"
+        },
+        {
+            "BE": "DCFL",
+            "Bald Eagle (1 of 1222)": "Dusky-capped Flycatcher (594 of 1222)"
+        },
+        {
+            "BE": "LSFL",
+            "Bald Eagle (1 of 1222)": "La Sagra's Flycatcher (595 of 1222)"
+        },
+        {
+            "BE": "PRFL",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Flycatcher (596 of 1222)"
+        },
+        {
+            "BE": "STOF",
+            "Bald Eagle (1 of 1222)": "Stolid Flycatcher (597 of 1222)"
+        },
+        {
+            "BE": "LESF",
+            "Bald Eagle (1 of 1222)": "Lesser Antillean Flycatcher (598 of 1222)"
+        },
+        {
+            "BE": "EAPH",
+            "Bald Eagle (1 of 1222)": "Eastern Phoebe (599 of 1222)"
+        },
+        {
+            "BE": "SAPH",
+            "Bald Eagle (1 of 1222)": "Say's Phoebe (600 of 1222)"
+        },
+        {
+            "BE": "BLPH",
+            "Bald Eagle (1 of 1222)": "Black Phoebe (601 of 1222)"
+        },
+        {
+            "BE": "OSFL",
+            "Bald Eagle (1 of 1222)": "Olive-sided Flycatcher (602 of 1222)"
+        },
+        {
+            "BE": "GRPE",
+            "Bald Eagle (1 of 1222)": "Greater Pewee (603 of 1222)"
+        },
+        {
+            "BE": "EAWP",
+            "Bald Eagle (1 of 1222)": "Eastern Wood-Pewee (604 of 1222)"
+        },
+        {
+            "BE": "WEWP",
+            "Bald Eagle (1 of 1222)": "Western Wood-Pewee (605 of 1222)"
+        },
+        {
+            "BE": "CUPE",
+            "Bald Eagle (1 of 1222)": "Cuban Pewee (606 of 1222)"
+        },
+        {
+            "BE": "LAPE",
+            "Bald Eagle (1 of 1222)": "Lesser Antillean Pewee (607 of 1222)"
+        },
+        {
+            "BE": "JAPE",
+            "Bald Eagle (1 of 1222)": "Jamaican Pewee (608 of 1222)"
+        },
+        {
+            "BE": "HIPE",
+            "Bald Eagle (1 of 1222)": "Hispaniolan Pewee (609 of 1222)"
+        },
+        {
+            "BE": "YBFL",
+            "Bald Eagle (1 of 1222)": "Yellow-bellied Flycatcher (610 of 1222)"
+        },
+        {
+            "BE": "COFL",
+            "Bald Eagle (1 of 1222)": "Cordilleran Flycatcher (611 of 1222)"
+        },
+        {
+            "BE": "PSFL",
+            "Bald Eagle (1 of 1222)": "Pacific-slope Flycatcher (612 of 1222)"
+        },
+        {
+            "BE": "WEFL",
+            "Bald Eagle (1 of 1222)": "Western Flycatcher (613 of 1222)"
+        },
+        {
+            "BE": "ACFL",
+            "Bald Eagle (1 of 1222)": "Acadian Flycatcher (614 of 1222)"
+        },
+        {
+            "BE": "WIFL",
+            "Bald Eagle (1 of 1222)": "Willow Flycatcher (615 of 1222)"
+        },
+        {
+            "BE": "ALFL",
+            "Bald Eagle (1 of 1222)": "Alder Flycatcher (616 of 1222)"
+        },
+        {
+            "BE": "SWFL",
+            "Bald Eagle (1 of 1222)": "Southwestern Willow Flycatcher (617 of 1222)"
+        },
+        {
+            "BE": "TRFL",
+            "Bald Eagle (1 of 1222)": "Traill's Flycatcher (618 of 1222)"
+        },
+        {
+            "BE": "LEFL",
+            "Bald Eagle (1 of 1222)": "Least Flycatcher (619 of 1222)"
+        },
+        {
+            "BE": "UNEM",
+            "Bald Eagle (1 of 1222)": "Unidentified Empidonax (620 of 1222)"
+        },
+        {
+            "BE": "HAFL",
+            "Bald Eagle (1 of 1222)": "Hammond's Flycatcher (621 of 1222)"
+        },
+        {
+            "BE": "DUFL",
+            "Bald Eagle (1 of 1222)": "Dusky Flycatcher (622 of 1222)"
+        },
+        {
+            "BE": "GRFL",
+            "Bald Eagle (1 of 1222)": "Gray Flycatcher (623 of 1222)"
+        },
+        {
+            "BE": "BBFL",
+            "Bald Eagle (1 of 1222)": "Buff-breasted Flycatcher (624 of 1222)"
+        },
+        {
+            "BE": "VEFL",
+            "Bald Eagle (1 of 1222)": "Vermilion Flycatcher (625 of 1222)"
+        },
+        {
+            "BE": "GREL",
+            "Bald Eagle (1 of 1222)": "Greenish Elaenia (626 of 1222)"
+        },
+        {
+            "BE": "NBTY",
+            "Bald Eagle (1 of 1222)": "Northern Beardless-Tyrannulet (627 of 1222)"
+        },
+        {
+            "BE": "CAEL",
+            "Bald Eagle (1 of 1222)": "Caribbean Elaenia (628 of 1222)"
+        },
+        {
+            "BE": "SKLA",
+            "Bald Eagle (1 of 1222)": "Sky Lark (629 of 1222)"
+        },
+        {
+            "BE": "HOLA",
+            "Bald Eagle (1 of 1222)": "Horned Lark (630 of 1222)"
+        },
+        {
+            "BE": "SHLA",
+            "Bald Eagle (1 of 1222)": "Streaked Horned Lark (631 of 1222)"
+        },
+        {
+            "BE": "BBMA",
+            "Bald Eagle (1 of 1222)": "Black-billed Magpie (632 of 1222)"
+        },
+        {
+            "BE": "YBMA",
+            "Bald Eagle (1 of 1222)": "Yellow-billed Magpie (633 of 1222)"
+        },
+        {
+            "BE": "BLJA",
+            "Bald Eagle (1 of 1222)": "Blue Jay (634 of 1222)"
+        },
+        {
+            "BE": "STJA",
+            "Bald Eagle (1 of 1222)": "Steller's Jay (635 of 1222)"
+        },
+        {
+            "BE": "FLSJ",
+            "Bald Eagle (1 of 1222)": "Florida Scrub-Jay (636 of 1222)"
+        },
+        {
+            "BE": "WESJ",
+            "Bald Eagle (1 of 1222)": "Western Scrub-Jay (637 of 1222)"
+        },
+        {
+            "BE": "ISSJ",
+            "Bald Eagle (1 of 1222)": "Island Scrub-Jay (638 of 1222)"
+        },
+        {
+            "BE": "MEJA",
+            "Bald Eagle (1 of 1222)": "Mexican Jay (639 of 1222)"
+        },
+        {
+            "BE": "GREJ",
+            "Bald Eagle (1 of 1222)": "Green Jay (640 of 1222)"
+        },
+        {
+            "BE": "BRJA",
+            "Bald Eagle (1 of 1222)": "Brown Jay (641 of 1222)"
+        },
+        {
+            "BE": "GRAJ",
+            "Bald Eagle (1 of 1222)": "Gray Jay (642 of 1222)"
+        },
+        {
+            "BE": "CORA",
+            "Bald Eagle (1 of 1222)": "Common Raven (643 of 1222)"
+        },
+        {
+            "BE": "CHRA",
+            "Bald Eagle (1 of 1222)": "Chihuahuan Raven (644 of 1222)"
+        },
+        {
+            "BE": "WNCR",
+            "Bald Eagle (1 of 1222)": "White-necked Crow (645 of 1222)"
+        },
+        {
+            "BE": "AMCR",
+            "Bald Eagle (1 of 1222)": "American Crow (646 of 1222)"
+        },
+        {
+            "BE": "NOCR",
+            "Bald Eagle (1 of 1222)": "Northwestern Crow (647 of 1222)"
+        },
+        {
+            "BE": "TACR",
+            "Bald Eagle (1 of 1222)": "Tamaulipas Crow (648 of 1222)"
+        },
+        {
+            "BE": "HCRO",
+            "Bald Eagle (1 of 1222)": "Hawaiian Crow (649 of 1222)"
+        },
+        {
+            "BE": "FICR",
+            "Bald Eagle (1 of 1222)": "Fish Crow (650 of 1222)"
+        },
+        {
+            "BE": "CLNU",
+            "Bald Eagle (1 of 1222)": "Clark's Nutcracker (651 of 1222)"
+        },
+        {
+            "BE": "PIJA",
+            "Bald Eagle (1 of 1222)": "Pinyon Jay (652 of 1222)"
+        },
+        {
+            "BE": "EUST",
+            "Bald Eagle (1 of 1222)": "European Starling (653 of 1222)"
+        },
+        {
+            "BE": "CRMY",
+            "Bald Eagle (1 of 1222)": "Crested Myna (654 of 1222)"
+        },
+        {
+            "BE": "COMY",
+            "Bald Eagle (1 of 1222)": "Common Myna (655 of 1222)"
+        },
+        {
+            "BE": "WVMY",
+            "Bald Eagle (1 of 1222)": "White-vented Myna (656 of 1222)"
+        },
+        {
+            "BE": "HIMY",
+            "Bald Eagle (1 of 1222)": "Hill Myna (657 of 1222)"
+        },
+        {
+            "BE": "JUMY",
+            "Bald Eagle (1 of 1222)": "Jungle Myna (658 of 1222)"
+        },
+        {
+            "BE": "BOBO",
+            "Bald Eagle (1 of 1222)": "Bobolink (659 of 1222)"
+        },
+        {
+            "BE": "BHCO",
+            "Bald Eagle (1 of 1222)": "Brown-headed Cowbird (660 of 1222)"
+        },
+        {
+            "BE": "BROC",
+            "Bald Eagle (1 of 1222)": "Bronzed Cowbird (661 of 1222)"
+        },
+        {
+            "BE": "SHCO",
+            "Bald Eagle (1 of 1222)": "Shiny Cowbird (662 of 1222)"
+        },
+        {
+            "BE": "YHBL",
+            "Bald Eagle (1 of 1222)": "Yellow-headed Blackbird (663 of 1222)"
+        },
+        {
+            "BE": "RWBL",
+            "Bald Eagle (1 of 1222)": "Red-winged Blackbird (664 of 1222)"
+        },
+        {
+            "BE": "TRBL",
+            "Bald Eagle (1 of 1222)": "Tricolored Blackbird (665 of 1222)"
+        },
+        {
+            "BE": "TSBL",
+            "Bald Eagle (1 of 1222)": "Tawny-shouldered Blackbird (666 of 1222)"
+        },
+        {
+            "BE": "YSBL",
+            "Bald Eagle (1 of 1222)": "Yellow-shouldered Blackbird (667 of 1222)"
+        },
+        {
+            "BE": "EAME",
+            "Bald Eagle (1 of 1222)": "Eastern Meadowlark (668 of 1222)"
+        },
+        {
+            "BE": "WEME",
+            "Bald Eagle (1 of 1222)": "Western Meadowlark (669 of 1222)"
+        },
+        {
+            "BE": "AUOR",
+            "Bald Eagle (1 of 1222)": "Audubon's Oriole (670 of 1222)"
+        },
+        {
+            "BE": "ALOR",
+            "Bald Eagle (1 of 1222)": "Altamira Oriole (671 of 1222)"
+        },
+        {
+            "BE": "SPOO",
+            "Bald Eagle (1 of 1222)": "Spot-breasted Oriole (672 of 1222)"
+        },
+        {
+            "BE": "SCOR",
+            "Bald Eagle (1 of 1222)": "Scott's Oriole (673 of 1222)"
+        },
+        {
+            "BE": "BVOR",
+            "Bald Eagle (1 of 1222)": "Black-vented Oriole (674 of 1222)"
+        },
+        {
+            "BE": "BCOR",
+            "Bald Eagle (1 of 1222)": "Black-cowled Oriole (675 of 1222)"
+        },
+        {
+            "BE": "CUOR",
+            "Bald Eagle (1 of 1222)": "Cuban Oriole (676 of 1222)"
+        },
+        {
+            "BE": "BAHO",
+            "Bald Eagle (1 of 1222)": "Bahama Oriole (677 of 1222)"
+        },
+        {
+            "BE": "PROR",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Oriole (678 of 1222)"
+        },
+        {
+            "BE": "HIOR",
+            "Bald Eagle (1 of 1222)": "Hispaniolan Oriole (679 of 1222)"
+        },
+        {
+            "BE": "HOOR",
+            "Bald Eagle (1 of 1222)": "Hooded Oriole (680 of 1222)"
+        },
+        {
+            "BE": "STRO",
+            "Bald Eagle (1 of 1222)": "Streak-backed Oriole (681 of 1222)"
+        },
+        {
+            "BE": "OROR",
+            "Bald Eagle (1 of 1222)": "Orchard Oriole (682 of 1222)"
+        },
+        {
+            "BE": "BAOR",
+            "Bald Eagle (1 of 1222)": "Baltimore Oriole (683 of 1222)"
+        },
+        {
+            "BE": "BBOH",
+            "Bald Eagle (1 of 1222)": "Baltimore X Bullock's Oriole Hybrid (684 of 1222)"
+        },
+        {
+            "BE": "BUOR",
+            "Bald Eagle (1 of 1222)": "Bullock's Oriole (685 of 1222)"
+        },
+        {
+            "BE": "RUBL",
+            "Bald Eagle (1 of 1222)": "Rusty Blackbird (686 of 1222)"
+        },
+        {
+            "BE": "BRBL",
+            "Bald Eagle (1 of 1222)": "Brewer's Blackbird (687 of 1222)"
+        },
+        {
+            "BE": "COGR",
+            "Bald Eagle (1 of 1222)": "Common Grackle (688 of 1222)"
+        },
+        {
+            "BE": "GTGR",
+            "Bald Eagle (1 of 1222)": "Great-tailed Grackle (689 of 1222)"
+        },
+        {
+            "BE": "BTGR",
+            "Bald Eagle (1 of 1222)": "Boat-tailed Grackle (690 of 1222)"
+        },
+        {
+            "BE": "GAGR",
+            "Bald Eagle (1 of 1222)": "Greater Antillean Grackle (691 of 1222)"
+        },
+        {
+            "BE": "EVGR",
+            "Bald Eagle (1 of 1222)": "Evening Grosbeak (692 of 1222)"
+        },
+        {
+            "BE": "BRAM",
+            "Bald Eagle (1 of 1222)": "Brambling (693 of 1222)"
+        },
+        {
+            "BE": "HAWF",
+            "Bald Eagle (1 of 1222)": "Hawfinch (694 of 1222)"
+        },
+        {
+            "BE": "COCH",
+            "Bald Eagle (1 of 1222)": "Common Chaffinch (695 of 1222)"
+        },
+        {
+            "BE": "PIGR",
+            "Bald Eagle (1 of 1222)": "Pine Grosbeak (696 of 1222)"
+        },
+        {
+            "BE": "EUBU",
+            "Bald Eagle (1 of 1222)": "Eurasian Bullfinch (697 of 1222)"
+        },
+        {
+            "BE": "CORO",
+            "Bald Eagle (1 of 1222)": "Common Rosefinch (698 of 1222)"
+        },
+        {
+            "BE": "PUFI",
+            "Bald Eagle (1 of 1222)": "Purple Finch (699 of 1222)"
+        },
+        {
+            "BE": "CAFI",
+            "Bald Eagle (1 of 1222)": "Cassin's Finch (700 of 1222)"
+        },
+        {
+            "BE": "HOFI",
+            "Bald Eagle (1 of 1222)": "House Finch (701 of 1222)"
+        },
+        {
+            "BE": "RECR",
+            "Bald Eagle (1 of 1222)": "Red Crossbill (702 of 1222)"
+        },
+        {
+            "BE": "WWCR",
+            "Bald Eagle (1 of 1222)": "White-winged Crossbill (703 of 1222)"
+        },
+        {
+            "BE": "GCRF",
+            "Bald Eagle (1 of 1222)": "Gray-crowned Rosy-Finch (704 of 1222)"
+        },
+        {
+            "BE": "BLRF",
+            "Bald Eagle (1 of 1222)": "Black Rosy-Finch (705 of 1222)"
+        },
+        {
+            "BE": "BCRF",
+            "Bald Eagle (1 of 1222)": "Brown-capped Rosy-Finch (706 of 1222)"
+        },
+        {
+            "BE": "EUGO",
+            "Bald Eagle (1 of 1222)": "European Goldfinch (707 of 1222)"
+        },
+        {
+            "BE": "ORGR",
+            "Bald Eagle (1 of 1222)": "Oriental Greenfinch (708 of 1222)"
+        },
+        {
+            "BE": "HORE",
+            "Bald Eagle (1 of 1222)": "Hoary Redpoll (709 of 1222)"
+        },
+        {
+            "BE": "UNRE",
+            "Bald Eagle (1 of 1222)": "Unidentified Common/Hoary Redpoll (710 of 1222)"
+        },
+        {
+            "BE": "CORE",
+            "Bald Eagle (1 of 1222)": "Common Redpoll (711 of 1222)"
+        },
+        {
+            "BE": "AMGO",
+            "Bald Eagle (1 of 1222)": "American Goldfinch (712 of 1222)"
+        },
+        {
+            "BE": "LEGO",
+            "Bald Eagle (1 of 1222)": "Lesser Goldfinch (713 of 1222)"
+        },
+        {
+            "BE": "LAGO",
+            "Bald Eagle (1 of 1222)": "Lawrence's Goldfinch (714 of 1222)"
+        },
+        {
+            "BE": "RESI",
+            "Bald Eagle (1 of 1222)": "Red Siskin (715 of 1222)"
+        },
+        {
+            "BE": "PISI",
+            "Bald Eagle (1 of 1222)": "Pine Siskin (716 of 1222)"
+        },
+        {
+            "BE": "COCA",
+            "Bald Eagle (1 of 1222)": "Common Canary (717 of 1222)"
+        },
+        {
+            "BE": "YFCA",
+            "Bald Eagle (1 of 1222)": "Yellow-fronted Canary (718 of 1222)"
+        },
+        {
+            "BE": "SNBU",
+            "Bald Eagle (1 of 1222)": "Snow Bunting (719 of 1222)"
+        },
+        {
+            "BE": "MKBU",
+            "Bald Eagle (1 of 1222)": "McKay's Bunting (720 of 1222)"
+        },
+        {
+            "BE": "RUBU",
+            "Bald Eagle (1 of 1222)": "Rustic Bunting (721 of 1222)"
+        },
+        {
+            "BE": "LIBU",
+            "Bald Eagle (1 of 1222)": "Little Bunting (722 of 1222)"
+        },
+        {
+            "BE": "GRBU",
+            "Bald Eagle (1 of 1222)": "Gray Bunting (723 of 1222)"
+        },
+        {
+            "BE": "PALB",
+            "Bald Eagle (1 of 1222)": "Pallas's Bunting (724 of 1222)"
+        },
+        {
+            "BE": "REBU",
+            "Bald Eagle (1 of 1222)": "Reed Bunting (725 of 1222)"
+        },
+        {
+            "BE": "LALO",
+            "Bald Eagle (1 of 1222)": "Lapland Longspur (726 of 1222)"
+        },
+        {
+            "BE": "SMLO",
+            "Bald Eagle (1 of 1222)": "Smith's Longspur (727 of 1222)"
+        },
+        {
+            "BE": "CCLO",
+            "Bald Eagle (1 of 1222)": "Chestnut-collared Longspur (728 of 1222)"
+        },
+        {
+            "BE": "MCLO",
+            "Bald Eagle (1 of 1222)": "McCown's Longspur (729 of 1222)"
+        },
+        {
+            "BE": "VESP",
+            "Bald Eagle (1 of 1222)": "Vesper Sparrow (730 of 1222)"
+        },
+        {
+            "BE": "IPSP",
+            "Bald Eagle (1 of 1222)": "Ipswich Sparrow (731 of 1222)"
+        },
+        {
+            "BE": "SAVS",
+            "Bald Eagle (1 of 1222)": "Savannah Sparrow (732 of 1222)"
+        },
+        {
+            "BE": "BSSP",
+            "Bald Eagle (1 of 1222)": "Belding's Savannah Sparrow (733 of 1222)"
+        },
+        {
+            "BE": "LBSP",
+            "Bald Eagle (1 of 1222)": "Large-billed Sparrow (734 of 1222)"
+        },
+        {
+            "BE": "BAIS",
+            "Bald Eagle (1 of 1222)": "Baird's Sparrow (735 of 1222)"
+        },
+        {
+            "BE": "GRSP",
+            "Bald Eagle (1 of 1222)": "Grasshopper Sparrow (736 of 1222)"
+        },
+        {
+            "BE": "FGSP",
+            "Bald Eagle (1 of 1222)": "Florida Grasshopper Sparrow (737 of 1222)"
+        },
+        {
+            "BE": "HESP",
+            "Bald Eagle (1 of 1222)": "Henslow's Sparrow (738 of 1222)"
+        },
+        {
+            "BE": "LCSP",
+            "Bald Eagle (1 of 1222)": "Le Conte's Sparrow (739 of 1222)"
+        },
+        {
+            "BE": "SALS",
+            "Bald Eagle (1 of 1222)": "Saltmarsh Sparrow (740 of 1222)"
+        },
+        {
+            "BE": "NESP",
+            "Bald Eagle (1 of 1222)": "Nelson's Sparrow (741 of 1222)"
+        },
+        {
+            "BE": "STSP",
+            "Bald Eagle (1 of 1222)": "Unidentified Sharp-tailed Sparrow (742 of 1222)"
+        },
+        {
+            "BE": "SESP",
+            "Bald Eagle (1 of 1222)": "Seaside Sparrow (743 of 1222)"
+        },
+        {
+            "BE": "DSSP",
+            "Bald Eagle (1 of 1222)": "Dusky Seaside Sparrow (744 of 1222)"
+        },
+        {
+            "BE": "CSSS",
+            "Bald Eagle (1 of 1222)": "Cape Sable Seaside Sparrow (745 of 1222)"
+        },
+        {
+            "BE": "LASP",
+            "Bald Eagle (1 of 1222)": "Lark Sparrow (746 of 1222)"
+        },
+        {
+            "BE": "HASP",
+            "Bald Eagle (1 of 1222)": "Harris's Sparrow (747 of 1222)"
+        },
+        {
+            "BE": "WCSP",
+            "Bald Eagle (1 of 1222)": "White-crowned Sparrow (748 of 1222)"
+        },
+        {
+            "BE": "EWCS",
+            "Bald Eagle (1 of 1222)": "Eastern White-crowned Sparrow (749 of 1222)"
+        },
+        {
+            "BE": "MWCS",
+            "Bald Eagle (1 of 1222)": "Mountain White-crowned Sparrow (750 of 1222)"
+        },
+        {
+            "BE": "PSWS",
+            "Bald Eagle (1 of 1222)": "Puget Sound White-crowned Sparrow (751 of 1222)"
+        },
+        {
+            "BE": "GWCS",
+            "Bald Eagle (1 of 1222)": "Gambel's White-crowned Sparrow (752 of 1222)"
+        },
+        {
+            "BE": "NWCS",
+            "Bald Eagle (1 of 1222)": "Nuttall's White-crowned Sparrow (753 of 1222)"
+        },
+        {
+            "BE": "GCSP",
+            "Bald Eagle (1 of 1222)": "Golden-crowned Sparrow (754 of 1222)"
+        },
+        {
+            "BE": "WTSP",
+            "Bald Eagle (1 of 1222)": "White-throated Sparrow (755 of 1222)"
+        },
+        {
+            "BE": "RUFS",
+            "Bald Eagle (1 of 1222)": "Rufous-collared Sparrow (756 of 1222)"
+        },
+        {
+            "BE": "ZSHY",
+            "Bald Eagle (1 of 1222)": "Zonotrichia Sparrow Hybrid (757 of 1222)"
+        },
+        {
+            "BE": "ATSP",
+            "Bald Eagle (1 of 1222)": "American Tree Sparrow (758 of 1222)"
+        },
+        {
+            "BE": "CHSP",
+            "Bald Eagle (1 of 1222)": "Chipping Sparrow (759 of 1222)"
+        },
+        {
+            "BE": "CCSP",
+            "Bald Eagle (1 of 1222)": "Clay-colored Sparrow (760 of 1222)"
+        },
+        {
+            "BE": "BRSP",
+            "Bald Eagle (1 of 1222)": "Brewer's Sparrow (761 of 1222)"
+        },
+        {
+            "BE": "FISP",
+            "Bald Eagle (1 of 1222)": "Field Sparrow (762 of 1222)"
+        },
+        {
+            "BE": "WOSP",
+            "Bald Eagle (1 of 1222)": "Worthen's Sparrow (763 of 1222)"
+        },
+        {
+            "BE": "BCSP",
+            "Bald Eagle (1 of 1222)": "Black-chinned Sparrow (764 of 1222)"
+        },
+        {
+            "BE": "WWJU",
+            "Bald Eagle (1 of 1222)": "White-winged Junco (765 of 1222)"
+        },
+        {
+            "BE": "SCJU",
+            "Bald Eagle (1 of 1222)": "Slate-colored Junco (766 of 1222)"
+        },
+        {
+            "BE": "ORJU",
+            "Bald Eagle (1 of 1222)": "Oregon Junco (767 of 1222)"
+        },
+        {
+            "BE": "UDEJ",
+            "Bald Eagle (1 of 1222)": "Dark-eyed Junco (768 of 1222)"
+        },
+        {
+            "BE": "GHJU",
+            "Bald Eagle (1 of 1222)": "Gray-headed Junco (769 of 1222)"
+        },
+        {
+            "BE": "YEJU",
+            "Bald Eagle (1 of 1222)": "Yellow-eyed Junco (770 of 1222)"
+        },
+        {
+            "BE": "BTSP",
+            "Bald Eagle (1 of 1222)": "Black-throated Sparrow (771 of 1222)"
+        },
+        {
+            "BE": "USSP",
+            "Bald Eagle (1 of 1222)": "Unspecified Sage Sparrow (772 of 1222)"
+        },
+        {
+            "BE": "SCBS",
+            "Bald Eagle (1 of 1222)": "San Clemente Bell's Sparrow (773 of 1222)"
+        },
+        {
+            "BE": "FSSP",
+            "Bald Eagle (1 of 1222)": "Five-striped Sparrow (774 of 1222)"
+        },
+        {
+            "BE": "SBSP",
+            "Bald Eagle (1 of 1222)": "Sagebrush Sparrow (775 of 1222)"
+        },
+        {
+            "BE": "BESP",
+            "Bald Eagle (1 of 1222)": "Bell's Sparrow (776 of 1222)"
+        },
+        {
+            "BE": "BACS",
+            "Bald Eagle (1 of 1222)": "Bachman's Sparrow (777 of 1222)"
+        },
+        {
+            "BE": "BOSP",
+            "Bald Eagle (1 of 1222)": "Botteri's Sparrow (778 of 1222)"
+        },
+        {
+            "BE": "CASP",
+            "Bald Eagle (1 of 1222)": "Cassin's Sparrow (779 of 1222)"
+        },
+        {
+            "BE": "RWSP",
+            "Bald Eagle (1 of 1222)": "Rufous-winged Sparrow (780 of 1222)"
+        },
+        {
+            "BE": "RCSP",
+            "Bald Eagle (1 of 1222)": "Rufous-crowned Sparrow (781 of 1222)"
+        },
+        {
+            "BE": "SOSP",
+            "Bald Eagle (1 of 1222)": "Song Sparrow (782 of 1222)"
+        },
+        {
+            "BE": "LISP",
+            "Bald Eagle (1 of 1222)": "Lincoln's Sparrow (783 of 1222)"
+        },
+        {
+            "BE": "SWSP",
+            "Bald Eagle (1 of 1222)": "Swamp Sparrow (784 of 1222)"
+        },
+        {
+            "BE": "FOSP",
+            "Bald Eagle (1 of 1222)": "Fox Sparrow (785 of 1222)"
+        },
+        {
+            "BE": "OLSP",
+            "Bald Eagle (1 of 1222)": "Olive Sparrow (786 of 1222)"
+        },
+        {
+            "BE": "SAFI",
+            "Bald Eagle (1 of 1222)": "Saffron Finch (787 of 1222)"
+        },
+        {
+            "BE": "EATO",
+            "Bald Eagle (1 of 1222)": "Eastern Towhee (788 of 1222)"
+        },
+        {
+            "BE": "URST",
+            "Bald Eagle (1 of 1222)": "Unidentified Rufous-sided Towhee (789 of 1222)"
+        },
+        {
+            "BE": "SPTO",
+            "Bald Eagle (1 of 1222)": "Spotted Towhee (790 of 1222)"
+        },
+        {
+            "BE": "GTTO",
+            "Bald Eagle (1 of 1222)": "Green-tailed Towhee (791 of 1222)"
+        },
+        {
+            "BE": "HYTO",
+            "Bald Eagle (1 of 1222)": "Hybrid Towhee (792 of 1222)"
+        },
+        {
+            "BE": "CANT",
+            "Bald Eagle (1 of 1222)": "Canyon Towhee (793 of 1222)"
+        },
+        {
+            "BE": "CALT",
+            "Bald Eagle (1 of 1222)": "California Towhee (794 of 1222)"
+        },
+        {
+            "BE": "ICTO",
+            "Bald Eagle (1 of 1222)": "Inyo California Towhee (795 of 1222)"
+        },
+        {
+            "BE": "ABTO",
+            "Bald Eagle (1 of 1222)": "Abert's Towhee (796 of 1222)"
+        },
+        {
+            "BE": "RCCA",
+            "Bald Eagle (1 of 1222)": "Red-crested Cardinal (797 of 1222)"
+        },
+        {
+            "BE": "YBCA",
+            "Bald Eagle (1 of 1222)": "Yellow-billed Cardinal (798 of 1222)"
+        },
+        {
+            "BE": "NOCA",
+            "Bald Eagle (1 of 1222)": "Northern Cardinal (799 of 1222)"
+        },
+        {
+            "BE": "PYRR",
+            "Bald Eagle (1 of 1222)": "Pyrrhuloxia (800 of 1222)"
+        },
+        {
+            "BE": "RBGR",
+            "Bald Eagle (1 of 1222)": "Rose-breasted Grosbeak (801 of 1222)"
+        },
+        {
+            "BE": "BHGR",
+            "Bald Eagle (1 of 1222)": "Black-headed Grosbeak (802 of 1222)"
+        },
+        {
+            "BE": "YEGR",
+            "Bald Eagle (1 of 1222)": "Yellow Grosbeak (803 of 1222)"
+        },
+        {
+            "BE": "BLGR",
+            "Bald Eagle (1 of 1222)": "Blue Grosbeak (804 of 1222)"
+        },
+        {
+            "BE": "BLBU",
+            "Bald Eagle (1 of 1222)": "Blue Bunting (805 of 1222)"
+        },
+        {
+            "BE": "INBU",
+            "Bald Eagle (1 of 1222)": "Indigo Bunting (806 of 1222)"
+        },
+        {
+            "BE": "ILBH",
+            "Bald Eagle (1 of 1222)": "Indigo X Lazuli Bunting Hybrid (807 of 1222)"
+        },
+        {
+            "BE": "LAZB",
+            "Bald Eagle (1 of 1222)": "Lazuli Bunting (808 of 1222)"
+        },
+        {
+            "BE": "VABU",
+            "Bald Eagle (1 of 1222)": "Varied Bunting (809 of 1222)"
+        },
+        {
+            "BE": "PABU",
+            "Bald Eagle (1 of 1222)": "Painted Bunting (810 of 1222)"
+        },
+        {
+            "BE": "WCSE",
+            "Bald Eagle (1 of 1222)": "White-collared Seedeater (811 of 1222)"
+        },
+        {
+            "BE": "PUEB",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Bullfinch (812 of 1222)"
+        },
+        {
+            "BE": "LESB",
+            "Bald Eagle (1 of 1222)": "Lesser Antillean Bullfinch (813 of 1222)"
+        },
+        {
+            "BE": "BFGR",
+            "Bald Eagle (1 of 1222)": "Black-faced Grassquit (814 of 1222)"
+        },
+        {
+            "BE": "CUGR",
+            "Bald Eagle (1 of 1222)": "Cuban Grassquit (815 of 1222)"
+        },
+        {
+            "BE": "YFGR",
+            "Bald Eagle (1 of 1222)": "Yellow-faced Grassquit (816 of 1222)"
+        },
+        {
+            "BE": "DICK",
+            "Bald Eagle (1 of 1222)": "Dickcissel (817 of 1222)"
+        },
+        {
+            "BE": "LARB",
+            "Bald Eagle (1 of 1222)": "Lark Bunting (818 of 1222)"
+        },
+        {
+            "BE": "ANEU",
+            "Bald Eagle (1 of 1222)": "Antillean Euphonia (819 of 1222)"
+        },
+        {
+            "BE": "WETA",
+            "Bald Eagle (1 of 1222)": "Western Tanager (820 of 1222)"
+        },
+        {
+            "BE": "FCTA",
+            "Bald Eagle (1 of 1222)": "Flame-colored Tanager (821 of 1222)"
+        },
+        {
+            "BE": "SCTA",
+            "Bald Eagle (1 of 1222)": "Scarlet Tanager (822 of 1222)"
+        },
+        {
+            "BE": "HETA",
+            "Bald Eagle (1 of 1222)": "Hepatic Tanager (823 of 1222)"
+        },
+        {
+            "BE": "SUTA",
+            "Bald Eagle (1 of 1222)": "Summer Tanager (824 of 1222)"
+        },
+        {
+            "BE": "WESP",
+            "Bald Eagle (1 of 1222)": "Western Spindalis (825 of 1222)"
+        },
+        {
+            "BE": "PRTA",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Tanager (826 of 1222)"
+        },
+        {
+            "BE": "PUMA",
+            "Bald Eagle (1 of 1222)": "Purple Martin (827 of 1222)"
+        },
+        {
+            "BE": "GBMA",
+            "Bald Eagle (1 of 1222)": "Gray-breasted Martin (828 of 1222)"
+        },
+        {
+            "BE": "CAMA",
+            "Bald Eagle (1 of 1222)": "Caribbean Martin (829 of 1222)"
+        },
+        {
+            "BE": "CLSW",
+            "Bald Eagle (1 of 1222)": "Cliff Swallow (830 of 1222)"
+        },
+        {
+            "BE": "CASW",
+            "Bald Eagle (1 of 1222)": "Cave Swallow (831 of 1222)"
+        },
+        {
+            "BE": "BARS",
+            "Bald Eagle (1 of 1222)": "Barn Swallow (832 of 1222)"
+        },
+        {
+            "BE": "TRES",
+            "Bald Eagle (1 of 1222)": "Tree Swallow (833 of 1222)"
+        },
+        {
+            "BE": "VGSW",
+            "Bald Eagle (1 of 1222)": "Violet-green Swallow (834 of 1222)"
+        },
+        {
+            "BE": "BAHS",
+            "Bald Eagle (1 of 1222)": "Bahama Swallow (835 of 1222)"
+        },
+        {
+            "BE": "BANS",
+            "Bald Eagle (1 of 1222)": "Bank Swallow (836 of 1222)"
+        },
+        {
+            "BE": "NRWS",
+            "Bald Eagle (1 of 1222)": "Northern Rough-winged Swallow (837 of 1222)"
+        },
+        {
+            "BE": "BOWA",
+            "Bald Eagle (1 of 1222)": "Bohemian Waxwing (838 of 1222)"
+        },
+        {
+            "BE": "CEDW",
+            "Bald Eagle (1 of 1222)": "Cedar Waxwing (839 of 1222)"
+        },
+        {
+            "BE": "PHAI",
+            "Bald Eagle (1 of 1222)": "Phainopepla (840 of 1222)"
+        },
+        {
+            "BE": "NSHR",
+            "Bald Eagle (1 of 1222)": "Northern Shrike (841 of 1222)"
+        },
+        {
+            "BE": "BRSH",
+            "Bald Eagle (1 of 1222)": "Brown Shrike (842 of 1222)"
+        },
+        {
+            "BE": "LOSH",
+            "Bald Eagle (1 of 1222)": "Loggerhead Shrike (843 of 1222)"
+        },
+        {
+            "BE": "KAOO",
+            "Bald Eagle (1 of 1222)": "Kauai Oo (844 of 1222)"
+        },
+        {
+            "BE": "BIOO",
+            "Bald Eagle (1 of 1222)": "Bishop's Oo (845 of 1222)"
+        },
+        {
+            "BE": "JAWE",
+            "Bald Eagle (1 of 1222)": "Japanese White-eye (846 of 1222)"
+        },
+        {
+            "BE": "SLSH",
+            "Bald Eagle (1 of 1222)": "San Clemente Loggerhead Shrike (847 of 1222)"
+        },
+        {
+            "BE": "BWVI",
+            "Bald Eagle (1 of 1222)": "Black-whiskered Vireo (848 of 1222)"
+        },
+        {
+            "BE": "REVI",
+            "Bald Eagle (1 of 1222)": "Red-eyed Vireo (849 of 1222)"
+        },
+        {
+            "BE": "YGVI",
+            "Bald Eagle (1 of 1222)": "Yellow-green Vireo (850 of 1222)"
+        },
+        {
+            "BE": "PHVI",
+            "Bald Eagle (1 of 1222)": "Philadelphia Vireo (851 of 1222)"
+        },
+        {
+            "BE": "WAVI",
+            "Bald Eagle (1 of 1222)": "Warbling Vireo (852 of 1222)"
+        },
+        {
+            "BE": "YTVI",
+            "Bald Eagle (1 of 1222)": "Yellow-throated Vireo (853 of 1222)"
+        },
+        {
+            "BE": "BHVI",
+            "Bald Eagle (1 of 1222)": "Blue-headed Vireo (854 of 1222)"
+        },
+        {
+            "BE": "PLVI",
+            "Bald Eagle (1 of 1222)": "Plumbeous Vireo (855 of 1222)"
+        },
+        {
+            "BE": "CAVI",
+            "Bald Eagle (1 of 1222)": "Cassin's Vireo (856 of 1222)"
+        },
+        {
+            "BE": "SOVI",
+            "Bald Eagle (1 of 1222)": "Solitary Vireo (857 of 1222)"
+        },
+        {
+            "BE": "BCVI",
+            "Bald Eagle (1 of 1222)": "Black-capped Vireo (858 of 1222)"
+        },
+        {
+            "BE": "WEVI",
+            "Bald Eagle (1 of 1222)": "White-eyed Vireo (859 of 1222)"
+        },
+        {
+            "BE": "HUVI",
+            "Bald Eagle (1 of 1222)": "Hutton's Vireo (860 of 1222)"
+        },
+        {
+            "BE": "BEVI",
+            "Bald Eagle (1 of 1222)": "Bell's Vireo (861 of 1222)"
+        },
+        {
+            "BE": "PRVI",
+            "Bald Eagle (1 of 1222)": "Puerto Rican Vireo (862 of 1222)"
+        },
+        {
+            "BE": "LBVI",
+            "Bald Eagle (1 of 1222)": "Least Bell's Vireo (863 of 1222)"
+        },
+        {
+            "BE": "GRVI",
+            "Bald Eagle (1 of 1222)": "Gray Vireo (864 of 1222)"
+        },
+        {
+            "BE": "BANA",
+            "Bald Eagle (1 of 1222)": "Bananaquit (865 of 1222)"
+        },
+        {
+            "BE": "BAWW",
+            "Bald Eagle (1 of 1222)": "Black-and-white Warbler (866 of 1222)"
+        },
+        {
+            "BE": "HYWA",
+            "Bald Eagle (1 of 1222)": "Hybrid Warbler (867 of 1222)"
+        },
+        {
+            "BE": "PROW",
+            "Bald Eagle (1 of 1222)": "Prothonotary Warbler (868 of 1222)"
+        },
+        {
+            "BE": "SWWA",
+            "Bald Eagle (1 of 1222)": "Swainson's Warbler (869 of 1222)"
+        },
+        {
+            "BE": "WEWA",
+            "Bald Eagle (1 of 1222)": "Worm-eating Warbler (870 of 1222)"
+        },
+        {
+            "BE": "BWWA",
+            "Bald Eagle (1 of 1222)": "Blue-winged Warbler (871 of 1222)"
+        },
+        {
+            "BE": "BRWA",
+            "Bald Eagle (1 of 1222)": "Brewster's Warbler (872 of 1222)"
+        },
+        {
+            "BE": "LAWA",
+            "Bald Eagle (1 of 1222)": "Lawrence's Warbler (873 of 1222)"
+        },
+        {
+            "BE": "GBWH",
+            "Bald Eagle (1 of 1222)": "Golden-winged x Blue-winged Warbler Hybrid (874 of 1222)"
+        },
+        {
+            "BE": "GWWA",
+            "Bald Eagle (1 of 1222)": "Golden-winged Warbler (875 of 1222)"
+        },
+        {
+            "BE": "LUWA",
+            "Bald Eagle (1 of 1222)": "Lucy's Warbler (876 of 1222)"
+        },
+        {
+            "BE": "VIWA",
+            "Bald Eagle (1 of 1222)": "Virginia's Warbler (877 of 1222)"
+        },
+        {
+            "BE": "NAWA",
+            "Bald Eagle (1 of 1222)": "Nashville Warbler (878 of 1222)"
+        },
+        {
+            "BE": "OCWA",
+            "Bald Eagle (1 of 1222)": "Orange-crowned Warbler (879 of 1222)"
+        },
+        {
+            "BE": "TEWA",
+            "Bald Eagle (1 of 1222)": "Tennessee Warbler (880 of 1222)"
+        },
+        {
+            "BE": "COLW",
+            "Bald Eagle (1 of 1222)": "Colima Warbler (881 of 1222)"
+        },
+        {
+            "BE": "NOPA",
+            "Bald Eagle (1 of 1222)": "Northern Parula (882 of 1222)"
+        },
+        {
+            "BE": "TRPA",
+            "Bald Eagle (1 of 1222)": "Tropical Parula (883 of 1222)"
+        },
+        {
+            "BE": "CMWA",
+            "Bald Eagle (1 of 1222)": "Cape May Warbler (884 of 1222)"
+        },
+        {
+            "BE": "OLWA",
+            "Bald Eagle (1 of 1222)": "Olive Warbler (885 of 1222)"
+        },
+        {
+            "BE": "YEWA",
+            "Bald Eagle (1 of 1222)": "Yellow Warbler (886 of 1222)"
+        },
+        {
+            "BE": "BTBW",
+            "Bald Eagle (1 of 1222)": "Black-throated Blue Warbler (887 of 1222)"
+        },
+        {
+            "BE": "MYWA",
+            "Bald Eagle (1 of 1222)": "Myrtle Warbler (888 of 1222)"
+        },
+        {
+            "BE": "YRWA",
+            "Bald Eagle (1 of 1222)": "Yellow-rumped Warbler (889 of 1222)"
+        },
+        {
+            "BE": "AUWA",
+            "Bald Eagle (1 of 1222)": "Audubon's Warbler (890 of 1222)"
+        },
+        {
+            "BE": "MAWA",
+            "Bald Eagle (1 of 1222)": "Magnolia Warbler (891 of 1222)"
+        },
+        {
+            "BE": "CERW",
+            "Bald Eagle (1 of 1222)": "Cerulean Warbler (892 of 1222)"
+        },
+        {
+            "BE": "EWWA",
+            "Bald Eagle (1 of 1222)": "Elfin-woods Warbler (893 of 1222)"
+        },
+        {
+            "BE": "CSWA",
+            "Bald Eagle (1 of 1222)": "Chestnut-sided Warbler (894 of 1222)"
+        },
+        {
+            "BE": "BBWA",
+            "Bald Eagle (1 of 1222)": "Bay-breasted Warbler (895 of 1222)"
+        },
+        {
+            "BE": "BLPW",
+            "Bald Eagle (1 of 1222)": "Blackpoll Warbler (896 of 1222)"
+        },
+        {
+            "BE": "BLBW",
+            "Bald Eagle (1 of 1222)": "Blackburnian Warbler (897 of 1222)"
+        },
+        {
+            "BE": "YTWA",
+            "Bald Eagle (1 of 1222)": "Yellow-throated Warbler (898 of 1222)"
+        },
+        {
+            "BE": "SUWA",
+            "Bald Eagle (1 of 1222)": "Sutton's Warbler (899 of 1222)"
+        },
+        {
+            "BE": "GRWA",
+            "Bald Eagle (1 of 1222)": "Grace's Warbler (900 of 1222)"
+        },
+        {
+            "BE": "ADWA",
+            "Bald Eagle (1 of 1222)": "Adelaide's Warbler (901 of 1222)"
+        },
+        {
+            "BE": "BARW",
+            "Bald Eagle (1 of 1222)": "Barbuda Warbler (902 of 1222)"
+        },
+        {
+            "BE": "SLWA",
+            "Bald Eagle (1 of 1222)": "St Lucia Warbler (903 of 1222)"
+        },
+        {
+            "BE": "BTYW",
+            "Bald Eagle (1 of 1222)": "Black-throated Gray Warbler (904 of 1222)"
+        },
+        {
+            "BE": "GCWA",
+            "Bald Eagle (1 of 1222)": "Golden-cheeked Warbler (905 of 1222)"
+        },
+        {
+            "BE": "BTNW",
+            "Bald Eagle (1 of 1222)": "Black-throated Green Warbler (906 of 1222)"
+        },
+        {
+            "BE": "TOWA",
+            "Bald Eagle (1 of 1222)": "Townsend's Warbler (907 of 1222)"
+        },
+        {
+            "BE": "THWH",
+            "Bald Eagle (1 of 1222)": "Townsend's X Hermit Warbler Hybrid (908 of 1222)"
+        },
+        {
+            "BE": "HEWA",
+            "Bald Eagle (1 of 1222)": "Hermit Warbler (909 of 1222)"
+        },
+        {
+            "BE": "KIWA",
+            "Bald Eagle (1 of 1222)": "Kirtland's Warbler (910 of 1222)"
+        },
+        {
+            "BE": "PIWA",
+            "Bald Eagle (1 of 1222)": "Pine Warbler (911 of 1222)"
+        },
+        {
+            "BE": "WPWA",
+            "Bald Eagle (1 of 1222)": "Western Palm Warbler (912 of 1222)"
+        },
+        {
+            "BE": "YPWA",
+            "Bald Eagle (1 of 1222)": "Yellow Palm Warbler (913 of 1222)"
+        },
+        {
+            "BE": "PRAW",
+            "Bald Eagle (1 of 1222)": "Prairie Warbler (914 of 1222)"
+        },
+        {
+            "BE": "OVEN",
+            "Bald Eagle (1 of 1222)": "Ovenbird (915 of 1222)"
+        },
+        {
+            "BE": "NOWA",
+            "Bald Eagle (1 of 1222)": "Northern Waterthrush (916 of 1222)"
+        },
+        {
+            "BE": "LOWA",
+            "Bald Eagle (1 of 1222)": "Louisiana Waterthrush (917 of 1222)"
+        },
+        {
+            "BE": "KEWA",
+            "Bald Eagle (1 of 1222)": "Kentucky Warbler (918 of 1222)"
+        },
+        {
+            "BE": "CONW",
+            "Bald Eagle (1 of 1222)": "Connecticut Warbler (919 of 1222)"
+        },
+        {
+            "BE": "MOWA",
+            "Bald Eagle (1 of 1222)": "Mourning Warbler (920 of 1222)"
+        },
+        {
+            "BE": "MGWA",
+            "Bald Eagle (1 of 1222)": "MacGillivray's Warbler (921 of 1222)"
+        },
+        {
+            "BE": "COYE",
+            "Bald Eagle (1 of 1222)": "Common Yellowthroat (922 of 1222)"
+        },
+        {
+            "BE": "GCYE",
+            "Bald Eagle (1 of 1222)": "Gray-crowned Yellowthroat (923 of 1222)"
+        },
+        {
+            "BE": "YBCH",
+            "Bald Eagle (1 of 1222)": "Yellow-breasted Chat (924 of 1222)"
+        },
+        {
+            "BE": "HOWA",
+            "Bald Eagle (1 of 1222)": "Hooded Warbler (925 of 1222)"
+        },
+        {
+            "BE": "WIWA",
+            "Bald Eagle (1 of 1222)": "Wilson's Warbler (926 of 1222)"
+        },
+        {
+            "BE": "CAWA",
+            "Bald Eagle (1 of 1222)": "Canada Warbler (927 of 1222)"
+        },
+        {
+            "BE": "AMRE",
+            "Bald Eagle (1 of 1222)": "American Redstart (928 of 1222)"
+        },
+        {
+            "BE": "PARE",
+            "Bald Eagle (1 of 1222)": "Painted Redstart (929 of 1222)"
+        },
+        {
+            "BE": "FTWA",
+            "Bald Eagle (1 of 1222)": "Fan-tailed Warbler (930 of 1222)"
+        },
+        {
+            "BE": "HOSP",
+            "Bald Eagle (1 of 1222)": "House Sparrow (931 of 1222)"
+        },
+        {
+            "BE": "ETSP",
+            "Bald Eagle (1 of 1222)": "Eurasian Tree Sparrow (932 of 1222)"
+        },
+        {
+            "BE": "SLAR",
+            "Bald Eagle (1 of 1222)": "Slate-throated Redstart (933 of 1222)"
+        },
+        {
+            "BE": "RFWA",
+            "Bald Eagle (1 of 1222)": "Red-faced Warbler (934 of 1222)"
+        },
+        {
+            "BE": "GOLW",
+            "Bald Eagle (1 of 1222)": "Golden-crowned Warbler (935 of 1222)"
+        },
+        {
+            "BE": "RCWA",
+            "Bald Eagle (1 of 1222)": "Rufous-capped Warbler (936 of 1222)"
+        },
+        {
+            "BE": "WHWA",
+            "Bald Eagle (1 of 1222)": "White Wagtail (937 of 1222)"
+        },
+        {
+            "BE": "BWAG",
+            "Bald Eagle (1 of 1222)": "Black-backed Wagtail (938 of 1222)"
+        },
+        {
+            "BE": "EYWA",
+            "Bald Eagle (1 of 1222)": "Eastern Yellow Wagtail (939 of 1222)"
+        },
+        {
+            "BE": "GRAW",
+            "Bald Eagle (1 of 1222)": "Gray Wagtail (940 of 1222)"
+        },
+        {
+            "BE": "AMPI",
+            "Bald Eagle (1 of 1222)": "American Pipit (941 of 1222)"
+        },
+        {
+            "BE": "PEPI",
+            "Bald Eagle (1 of 1222)": "Pechora Pipit (942 of 1222)"
+        },
+        {
+            "BE": "OBPI",
+            "Bald Eagle (1 of 1222)": "Olive-backed Pipit (943 of 1222)"
+        },
+        {
+            "BE": "RTPI",
+            "Bald Eagle (1 of 1222)": "Red-throated Pipit (944 of 1222)"
+        },
+        {
+            "BE": "SPPI",
+            "Bald Eagle (1 of 1222)": "Sprague's Pipit (945 of 1222)"
+        },
+        {
+            "BE": "AMDI",
+            "Bald Eagle (1 of 1222)": "American Dipper (946 of 1222)"
+        },
+        {
+            "BE": "SATH",
+            "Bald Eagle (1 of 1222)": "Sage Thrasher (947 of 1222)"
+        },
+        {
+            "BE": "NOMO",
+            "Bald Eagle (1 of 1222)": "Northern Mockingbird (948 of 1222)"
+        },
+        {
+            "BE": "BAMO",
+            "Bald Eagle (1 of 1222)": "Bahama Mockingbird (949 of 1222)"
+        },
+        {
+            "BE": "TRMO",
+            "Bald Eagle (1 of 1222)": "Tropical Mockingbird (950 of 1222)"
+        },
+        {
+            "BE": "GRCA",
+            "Bald Eagle (1 of 1222)": "Gray Catbird (951 of 1222)"
+        },
+        {
+            "BE": "BRTH",
+            "Bald Eagle (1 of 1222)": "Brown Thrasher (952 of 1222)"
+        },
+        {
+            "BE": "LBTH",
+            "Bald Eagle (1 of 1222)": "Long-billed Thrasher (953 of 1222)"
+        },
+        {
+            "BE": "CBTH",
+            "Bald Eagle (1 of 1222)": "Curve-billed Thrasher (954 of 1222)"
+        },
+        {
+            "BE": "BETH",
+            "Bald Eagle (1 of 1222)": "Bendire's Thrasher (955 of 1222)"
+        },
+        {
+            "BE": "CATH",
+            "Bald Eagle (1 of 1222)": "California Thrasher (956 of 1222)"
+        },
+        {
+            "BE": "LCTH",
+            "Bald Eagle (1 of 1222)": "Le Conte's Thrasher (957 of 1222)"
+        },
+        {
+            "BE": "PETH",
+            "Bald Eagle (1 of 1222)": "Pearly-eyed Thrasher (958 of 1222)"
+        },
+        {
+            "BE": "CRTH",
+            "Bald Eagle (1 of 1222)": "Crissal Thrasher (959 of 1222)"
+        },
+        {
+            "BE": "CACW",
+            "Bald Eagle (1 of 1222)": "Cactus Wren (960 of 1222)"
+        },
+        {
+            "BE": "ROWR",
+            "Bald Eagle (1 of 1222)": "Rock Wren (961 of 1222)"
+        },
+        {
+            "BE": "CANW",
+            "Bald Eagle (1 of 1222)": "Canyon Wren (962 of 1222)"
+        },
+        {
+            "BE": "CARW",
+            "Bald Eagle (1 of 1222)": "Carolina Wren (963 of 1222)"
+        },
+        {
+            "BE": "BEWR",
+            "Bald Eagle (1 of 1222)": "Bewick's Wren (964 of 1222)"
+        },
+        {
+            "BE": "HOWR",
+            "Bald Eagle (1 of 1222)": "House Wren (965 of 1222)"
+        },
+        {
+            "BE": "WIWR",
+            "Bald Eagle (1 of 1222)": "Winter Wren (966 of 1222)"
+        },
+        {
+            "BE": "PAWR",
+            "Bald Eagle (1 of 1222)": "Pacific Wren (967 of 1222)"
+        },
+        {
+            "BE": "SEWR",
+            "Bald Eagle (1 of 1222)": "Sedge Wren (968 of 1222)"
+        },
+        {
+            "BE": "MAWR",
+            "Bald Eagle (1 of 1222)": "Marsh Wren (969 of 1222)"
+        },
+        {
+            "BE": "BRCR",
+            "Bald Eagle (1 of 1222)": "Brown Creeper (970 of 1222)"
+        },
+        {
+            "BE": "RWBU",
+            "Bald Eagle (1 of 1222)": "Red-whiskered Bulbul (971 of 1222)"
+        },
+        {
+            "BE": "RVBU",
+            "Bald Eagle (1 of 1222)": "Red-vented Bulbul (972 of 1222)"
+        },
+        {
+            "BE": "WBNU",
+            "Bald Eagle (1 of 1222)": "White-breasted Nuthatch (973 of 1222)"
+        },
+        {
+            "BE": "RBNU",
+            "Bald Eagle (1 of 1222)": "Red-breasted Nuthatch (974 of 1222)"
+        },
+        {
+            "BE": "BHNU",
+            "Bald Eagle (1 of 1222)": "Brown-headed Nuthatch (975 of 1222)"
+        },
+        {
+            "BE": "PYNU",
+            "Bald Eagle (1 of 1222)": "Pygmy Nuthatch (976 of 1222)"
+        },
+        {
+            "BE": "TUTI",
+            "Bald Eagle (1 of 1222)": "Tufted Titmouse (977 of 1222)"
+        },
+        {
+            "BE": "BCTI",
+            "Bald Eagle (1 of 1222)": "Black-crested Titmouse (978 of 1222)"
+        },
+        {
+            "BE": "OATI",
+            "Bald Eagle (1 of 1222)": "Oak Titmouse (979 of 1222)"
+        },
+        {
+            "BE": "JUTI",
+            "Bald Eagle (1 of 1222)": "Juniper Titmouse (980 of 1222)"
+        },
+        {
+            "BE": "PLTI",
+            "Bald Eagle (1 of 1222)": "Plain Titmouse (981 of 1222)"
+        },
+        {
+            "BE": "BRTI",
+            "Bald Eagle (1 of 1222)": "Bridled Titmouse (982 of 1222)"
+        },
+        {
+            "BE": "VATI",
+            "Bald Eagle (1 of 1222)": "Varied Tit (983 of 1222)"
+        },
+        {
+            "BE": "BCCH",
+            "Bald Eagle (1 of 1222)": "Black-capped Chickadee (984 of 1222)"
+        },
+        {
+            "BE": "HYCH",
+            "Bald Eagle (1 of 1222)": "Hybrid Chickadee (985 of 1222)"
+        },
+        {
+            "BE": "CACH",
+            "Bald Eagle (1 of 1222)": "Carolina Chickadee (986 of 1222)"
+        },
+        {
+            "BE": "MECH",
+            "Bald Eagle (1 of 1222)": "Mexican Chickadee (987 of 1222)"
+        },
+        {
+            "BE": "MOCH",
+            "Bald Eagle (1 of 1222)": "Mountain Chickadee (988 of 1222)"
+        },
+        {
+            "BE": "GHCH",
+            "Bald Eagle (1 of 1222)": "Gray-headed Chickadee (989 of 1222)"
+        },
+        {
+            "BE": "BOCH",
+            "Bald Eagle (1 of 1222)": "Boreal Chickadee (990 of 1222)"
+        },
+        {
+            "BE": "CBCH",
+            "Bald Eagle (1 of 1222)": "Chestnut-backed Chickadee (991 of 1222)"
+        },
+        {
+            "BE": "WREN",
+            "Bald Eagle (1 of 1222)": "Wrentit (992 of 1222)"
+        },
+        {
+            "BE": "RBLE",
+            "Bald Eagle (1 of 1222)": "Red-billed Leiothrix (993 of 1222)"
+        },
+        {
+            "BE": "HWAM",
+            "Bald Eagle (1 of 1222)": "Hwamei (994 of 1222)"
+        },
+        {
+            "BE": "GNLA",
+            "Bald Eagle (1 of 1222)": "Greater Necklaced Laughingthrush (995 of 1222)"
+        },
+        {
+            "BE": "OBNT",
+            "Bald Eagle (1 of 1222)": "Orange-billed Nightingale-Thrush (996 of 1222)"
+        },
+        {
+            "BE": "BUSH",
+            "Bald Eagle (1 of 1222)": "Bushtit (997 of 1222)"
+        },
+        {
+            "BE": "VERD",
+            "Bald Eagle (1 of 1222)": "Verdin (998 of 1222)"
+        },
+        {
+            "BE": "JABW",
+            "Bald Eagle (1 of 1222)": "Japanese Bush-Warbler (999 of 1222)"
+        },
+        {
+            "BE": "MILL",
+            "Bald Eagle (1 of 1222)": "Millerbird (1000 of 1222)"
+        },
+        {
+            "BE": "ARWA",
+            "Bald Eagle (1 of 1222)": "Arctic Warbler (1001 of 1222)"
+        },
+        {
+            "BE": "MIGW",
+            "Bald Eagle (1 of 1222)": "Middendorff's Grasshopper-Warbler (1002 of 1222)"
+        },
+        {
+            "BE": "WOWA",
+            "Bald Eagle (1 of 1222)": "Wood Warbler (1003 of 1222)"
+        },
+        {
+            "BE": "DUWA",
+            "Bald Eagle (1 of 1222)": "Dusky Warbler (1004 of 1222)"
+        },
+        {
+            "BE": "LANW",
+            "Bald Eagle (1 of 1222)": "Lanceolated Warbler (1005 of 1222)"
+        },
+        {
+            "BE": "GCKI",
+            "Bald Eagle (1 of 1222)": "Golden-crowned Kinglet (1006 of 1222)"
+        },
+        {
+            "BE": "RCKI",
+            "Bald Eagle (1 of 1222)": "Ruby-crowned Kinglet (1007 of 1222)"
+        },
+        {
+            "BE": "SIAC",
+            "Bald Eagle (1 of 1222)": "Siberian Accentor (1008 of 1222)"
+        },
+        {
+            "BE": "BGGN",
+            "Bald Eagle (1 of 1222)": "Blue-gray Gnatcatcher (1009 of 1222)"
+        },
+        {
+            "BE": "BTGN",
+            "Bald Eagle (1 of 1222)": "Black-tailed Gnatcatcher (1010 of 1222)"
+        },
+        {
+            "BE": "CAGN",
+            "Bald Eagle (1 of 1222)": "California Gnatcatcher (1011 of 1222)"
+        },
+        {
+            "BE": "BCGN",
+            "Bald Eagle (1 of 1222)": "Black-capped Gnatcatcher (1012 of 1222)"
+        },
+        {
+            "BE": "BACG",
+            "Bald Eagle (1 of 1222)": "Baja Gnatcatcher (1013 of 1222)"
+        },
+        {
+            "BE": "TOSO",
+            "Bald Eagle (1 of 1222)": "Townsend's Solitaire (1014 of 1222)"
+        },
+        {
+            "BE": "OMAO",
+            "Bald Eagle (1 of 1222)": "Omao (1015 of 1222)"
+        },
+        {
+            "BE": "PUAI",
+            "Bald Eagle (1 of 1222)": "Puaiohi (1016 of 1222)"
+        },
+        {
+            "BE": "KAMA",
+            "Bald Eagle (1 of 1222)": "Kamao (1017 of 1222)"
+        },
+        {
+            "BE": "OLOM",
+            "Bald Eagle (1 of 1222)": "Olomao (1018 of 1222)"
+        },
+        {
+            "BE": "WOTH",
+            "Bald Eagle (1 of 1222)": "Wood Thrush (1019 of 1222)"
+        },
+        {
+            "BE": "VEER",
+            "Bald Eagle (1 of 1222)": "Veery (1020 of 1222)"
+        },
+        {
+            "BE": "GCTH",
+            "Bald Eagle (1 of 1222)": "Gray-cheeked Thrush (1021 of 1222)"
+        },
+        {
+            "BE": "BITH",
+            "Bald Eagle (1 of 1222)": "Bicknell's Thrush (1022 of 1222)"
+        },
+        {
+            "BE": "GCBT",
+            "Bald Eagle (1 of 1222)": "Unidentified Gray-cheeked/Bicknell's Thrush (1023 of 1222)"
+        },
+        {
+            "BE": "SWTH",
+            "Bald Eagle (1 of 1222)": "Swainson's Thrush (1024 of 1222)"
+        },
+        {
+            "BE": "HETH",
+            "Bald Eagle (1 of 1222)": "Hermit Thrush (1025 of 1222)"
+        },
+        {
+            "BE": "REDW",
+            "Bald Eagle (1 of 1222)": "Redwing (1026 of 1222)"
+        },
+        {
+            "BE": "AMRO",
+            "Bald Eagle (1 of 1222)": "American Robin (1027 of 1222)"
+        },
+        {
+            "BE": "FIEL",
+            "Bald Eagle (1 of 1222)": "Fieldfare (1028 of 1222)"
+        },
+        {
+            "BE": "EYTH",
+            "Bald Eagle (1 of 1222)": "Eyebrowed Thrush (1029 of 1222)"
+        },
+        {
+            "BE": "DUTH",
+            "Bald Eagle (1 of 1222)": "Dusky Thrush (1030 of 1222)"
+        },
+        {
+            "BE": "CCTH",
+            "Bald Eagle (1 of 1222)": "Clay-colored Thrush (1031 of 1222)"
+        },
+        {
+            "BE": "RBRO",
+            "Bald Eagle (1 of 1222)": "Rufous-backed Robin (1032 of 1222)"
+        },
+        {
+            "BE": "RLTH",
+            "Bald Eagle (1 of 1222)": "Red-legged Thrush (1033 of 1222)"
+        },
+        {
+            "BE": "VATH",
+            "Bald Eagle (1 of 1222)": "Varied Thrush (1034 of 1222)"
+        },
+        {
+            "BE": "AZTH",
+            "Bald Eagle (1 of 1222)": "Aztec Thrush (1035 of 1222)"
+        },
+        {
+            "BE": "BLUE",
+            "Bald Eagle (1 of 1222)": "Bluethroat (1036 of 1222)"
+        },
+        {
+            "BE": "SIRU",
+            "Bald Eagle (1 of 1222)": "Siberian Rubythroat (1037 of 1222)"
+        },
+        {
+            "BE": "RFBL",
+            "Bald Eagle (1 of 1222)": "Red-flanked Bluetail (1038 of 1222)"
+        },
+        {
+            "BE": "NOWH",
+            "Bald Eagle (1 of 1222)": "Northern Wheatear (1039 of 1222)"
+        },
+        {
+            "BE": "EABL",
+            "Bald Eagle (1 of 1222)": "Eastern Bluebird (1040 of 1222)"
+        },
+        {
+            "BE": "WEBL",
+            "Bald Eagle (1 of 1222)": "Western Bluebird (1041 of 1222)"
+        },
+        {
+            "BE": "HYBL",
+            "Bald Eagle (1 of 1222)": "Hybrid Western/Mountain Bluebird (1042 of 1222)"
+        },
+        {
+            "BE": "MOBL",
+            "Bald Eagle (1 of 1222)": "Mountain Bluebird (1043 of 1222)"
+        },
+        {
+            "BE": "WRSH",
+            "Bald Eagle (1 of 1222)": "White-rumped Shama (1044 of 1222)"
+        },
+        {
+            "BE": "HAEL",
+            "Bald Eagle (1 of 1222)": "Hawaii Elepaio (1045 of 1222)"
+        },
+        {
+            "BE": "OAEL",
+            "Bald Eagle (1 of 1222)": "Oahu Elepaio (1046 of 1222)"
+        },
+        {
+            "BE": "KAEL",
+            "Bald Eagle (1 of 1222)": "Kauai Elepaio (1047 of 1222)"
+        },
+        {
+            "BE": "TAFL",
+            "Bald Eagle (1 of 1222)": "Taiga Flycatcher (1048 of 1222)"
+        },
+        {
+            "BE": "DSFL",
+            "Bald Eagle (1 of 1222)": "Dark-sided Flycatcher (1049 of 1222)"
+        },
+        {
+            "BE": "GSFL",
+            "Bald Eagle (1 of 1222)": "Gray-streaked Flycatcher (1050 of 1222)"
+        },
+        {
+            "BE": "LAFI",
+            "Bald Eagle (1 of 1222)": "Laysan Finch (1051 of 1222)"
+        },
+        {
+            "BE": "NIFI",
+            "Bald Eagle (1 of 1222)": "Nihoa Finch (1052 of 1222)"
+        },
+        {
+            "BE": "OU",
+            "Bald Eagle (1 of 1222)": "Ou (1053 of 1222)"
+        },
+        {
+            "BE": "PALI",
+            "Bald Eagle (1 of 1222)": "Palila (1054 of 1222)"
+        },
+        {
+            "BE": "MAPA",
+            "Bald Eagle (1 of 1222)": "Maui Parrotbill (1055 of 1222)"
+        },
+        {
+            "BE": "HAAM",
+            "Bald Eagle (1 of 1222)": "Hawaii Amakihi (1056 of 1222)"
+        },
+        {
+            "BE": "OAAM",
+            "Bald Eagle (1 of 1222)": "Oahu Amakihi (1057 of 1222)"
+        },
+        {
+            "BE": "KAAM",
+            "Bald Eagle (1 of 1222)": "Kauai Amakihi (1058 of 1222)"
+        },
+        {
+            "BE": "ANIA",
+            "Bald Eagle (1 of 1222)": "Anianiau (1059 of 1222)"
+        },
+        {
+            "BE": "GREA",
+            "Bald Eagle (1 of 1222)": "Greater Akialoa (1060 of 1222)"
+        },
+        {
+            "BE": "NUKU",
+            "Bald Eagle (1 of 1222)": "Nukupuu (1061 of 1222)"
+        },
+        {
+            "BE": "AKIP",
+            "Bald Eagle (1 of 1222)": "Akiapolaau (1062 of 1222)"
+        },
+        {
+            "BE": "AKIK",
+            "Bald Eagle (1 of 1222)": "Akikiki (1063 of 1222)"
+        },
+        {
+            "BE": "HCRE",
+            "Bald Eagle (1 of 1222)": "Hawaii Creeper (1064 of 1222)"
+        },
+        {
+            "BE": "MAAL",
+            "Bald Eagle (1 of 1222)": "Maui Alauahio (1065 of 1222)"
+        },
+        {
+            "BE": "KAKA",
+            "Bald Eagle (1 of 1222)": "Kakawahie (1066 of 1222)"
+        },
+        {
+            "BE": "OAAL",
+            "Bald Eagle (1 of 1222)": "Oahu Alauahio (1067 of 1222)"
+        },
+        {
+            "BE": "AKEP",
+            "Bald Eagle (1 of 1222)": "Akepa (1068 of 1222)"
+        },
+        {
+            "BE": "AKEK",
+            "Bald Eagle (1 of 1222)": "Akekee (1069 of 1222)"
+        },
+        {
+            "BE": "IIWI",
+            "Bald Eagle (1 of 1222)": "Iiwi (1070 of 1222)"
+        },
+        {
+            "BE": "AKOH",
+            "Bald Eagle (1 of 1222)": "Akohekohe (1071 of 1222)"
+        },
+        {
+            "BE": "APAP",
+            "Bald Eagle (1 of 1222)": "Apapane (1072 of 1222)"
+        },
+        {
+            "BE": "POUL",
+            "Bald Eagle (1 of 1222)": "Poo-uli (1073 of 1222)"
+        },
+        {
+            "BE": "REBI",
+            "Bald Eagle (1 of 1222)": "Red Bishop (1074 of 1222)"
+        },
+        {
+            "BE": "YCBI",
+            "Bald Eagle (1 of 1222)": "Yellow-crowned Bishop (1075 of 1222)"
+        },
+        {
+            "BE": "RCCO",
+            "Bald Eagle (1 of 1222)": "Red-cheeked Cordonbleu (1076 of 1222)"
+        },
+        {
+            "BE": "LAVW",
+            "Bald Eagle (1 of 1222)": "Lavender Waxbill (1077 of 1222)"
+        },
+        {
+            "BE": "ORAW",
+            "Bald Eagle (1 of 1222)": "Orange-cheeked Waxbill (1078 of 1222)"
+        },
+        {
+            "BE": "BRWX",
+            "Bald Eagle (1 of 1222)": "Black-rumped Waxbill (1079 of 1222)"
+        },
+        {
+            "BE": "COMW",
+            "Bald Eagle (1 of 1222)": "Common Waxbill (1080 of 1222)"
+        },
+        {
+            "BE": "REAV",
+            "Bald Eagle (1 of 1222)": "Red Avadavat (1081 of 1222)"
+        },
+        {
+            "BE": "AFSI",
+            "Bald Eagle (1 of 1222)": "African Silverbill (1082 of 1222)"
+        },
+        {
+            "BE": "BRMA",
+            "Bald Eagle (1 of 1222)": "Bronze Mannikin (1083 of 1222)"
+        },
+        {
+            "BE": "SBMU",
+            "Bald Eagle (1 of 1222)": "Scaly-breasted Munia (1084 of 1222)"
+        },
+        {
+            "BE": "TRMU",
+            "Bald Eagle (1 of 1222)": "Tricolored Munia (1085 of 1222)"
+        },
+        {
+            "BE": "JASP",
+            "Bald Eagle (1 of 1222)": "Java Sparrow (1086 of 1222)"
+        },
+        {
+            "BE": "PTWH",
+            "Bald Eagle (1 of 1222)": "Pin-tailed Whydah (1087 of 1222)"
+        },
+        {
+            "BE": "KIPE",
+            "Bald Eagle (1 of 1222)": "King Penguin (1088 of 1222)"
+        },
+        {
+            "BE": "EMPE",
+            "Bald Eagle (1 of 1222)": "Emperor Penguin (1089 of 1222)"
+        },
+        {
+            "BE": "GEPE",
+            "Bald Eagle (1 of 1222)": "Gentoo Penguin (1090 of 1222)"
+        },
+        {
+            "BE": "ADPE",
+            "Bald Eagle (1 of 1222)": "Adelie Penguin (1091 of 1222)"
+        },
+        {
+            "BE": "CHPE",
+            "Bald Eagle (1 of 1222)": "Chinstrap Penguin (1092 of 1222)"
+        },
+        {
+            "BE": "VIPE",
+            "Bald Eagle (1 of 1222)": "Victoria Penguin (1093 of 1222)"
+        },
+        {
+            "BE": "ROCP",
+            "Bald Eagle (1 of 1222)": "Rockhopper Penguin (1094 of 1222)"
+        },
+        {
+            "BE": "ROYP",
+            "Bald Eagle (1 of 1222)": "Royal Penguin (1095 of 1222)"
+        },
+        {
+            "BE": "MACP",
+            "Bald Eagle (1 of 1222)": "Macaroni Penguin (1096 of 1222)"
+        },
+        {
+            "BE": "FAPE",
+            "Bald Eagle (1 of 1222)": "Fairy Penguin (1097 of 1222)"
+        },
+        {
+            "BE": "AFPE",
+            "Bald Eagle (1 of 1222)": "African Penguin (1098 of 1222)"
+        },
+        {
+            "BE": "HUPE",
+            "Bald Eagle (1 of 1222)": "Humboldt Penguin (1099 of 1222)"
+        },
+        {
+            "BE": "MAGP",
+            "Bald Eagle (1 of 1222)": "Magellanic Penguin (1100 of 1222)"
+        },
+        {
+            "BE": "GALP",
+            "Bald Eagle (1 of 1222)": "Galapagos Penguin (1101 of 1222)"
+        },
+        {
+            "BE": "ROAL",
+            "Bald Eagle (1 of 1222)": "Royal Albatross (1102 of 1222)"
+        },
+        {
+            "BE": "BUAL",
+            "Bald Eagle (1 of 1222)": "Buller's Albatross (1103 of 1222)"
+        },
+        {
+            "BE": "GHAL",
+            "Bald Eagle (1 of 1222)": "Gray-headed Albatross (1104 of 1222)"
+        },
+        {
+            "BE": "SOAL",
+            "Bald Eagle (1 of 1222)": "Sooty Albatross (1105 of 1222)"
+        },
+        {
+            "BE": "LMSA",
+            "Bald Eagle (1 of 1222)": "Light-mantled Albatross (1106 of 1222)"
+        },
+        {
+            "BE": "SGPE",
+            "Bald Eagle (1 of 1222)": "Southern Giant Petrel (1107 of 1222)"
+        },
+        {
+            "BE": "SOFU",
+            "Bald Eagle (1 of 1222)": "Southern Fulmar (1108 of 1222)"
+        },
+        {
+            "BE": "BLPE",
+            "Bald Eagle (1 of 1222)": "Blue Petrel (1109 of 1222)"
+        },
+        {
+            "BE": "BBPR",
+            "Bald Eagle (1 of 1222)": "Broad-billed Prion (1110 of 1222)"
+        },
+        {
+            "BE": "DOPR",
+            "Bald Eagle (1 of 1222)": "Dove Prion (1111 of 1222)"
+        },
+        {
+            "BE": "TBPR",
+            "Bald Eagle (1 of 1222)": "Thin-billed Prion (1112 of 1222)"
+        },
+        {
+            "BE": "FAPR",
+            "Bald Eagle (1 of 1222)": "Fairy Prion (1113 of 1222)"
+        },
+        {
+            "BE": "ANPE",
+            "Bald Eagle (1 of 1222)": "Antarctic Petrel (1114 of 1222)"
+        },
+        {
+            "BE": "WCPE",
+            "Bald Eagle (1 of 1222)": "White-chinned Petrel (1115 of 1222)"
+        },
+        {
+            "BE": "KEPE",
+            "Bald Eagle (1 of 1222)": "Kerguelen Petrel (1116 of 1222)"
+        },
+        {
+            "BE": "SNPE",
+            "Bald Eagle (1 of 1222)": "Snow Petrel (1117 of 1222)"
+        },
+        {
+            "BE": "GBSP",
+            "Bald Eagle (1 of 1222)": "Gray-backed Storm-Petrel (1118 of 1222)"
+        },
+        {
+            "BE": "BECO",
+            "Bald Eagle (1 of 1222)": "Blue-eyed Cormorant (1119 of 1222)"
+        },
+        {
+            "BE": "SNSH",
+            "Bald Eagle (1 of 1222)": "Snowy Sheathbill (1120 of 1222)"
+        },
+        {
+            "BE": "LESH",
+            "Bald Eagle (1 of 1222)": "Lesser Sheathbill (1121 of 1222)"
+        },
+        {
+            "BE": "SBBG",
+            "Bald Eagle (1 of 1222)": "Southern Black-backed Gull (1122 of 1222)"
+        },
+        {
+            "BE": "ANTE",
+            "Bald Eagle (1 of 1222)": "Antarctic Tern (1123 of 1222)"
+        },
+        {
+            "BE": "KETE",
+            "Bald Eagle (1 of 1222)": "Kerguelen Tern (1124 of 1222)"
+        },
+        {
+            "BE": "HYSK",
+            "Bald Eagle (1 of 1222)": "Hybrid Skua (1125 of 1222)"
+        },
+        {
+            "BE": "NGPE",
+            "Bald Eagle (1 of 1222)": "Northern Giant Petrel (1126 of 1222)"
+        },
+        {
+            "BE": "BRSK",
+            "Bald Eagle (1 of 1222)": "Brown Skua (1127 of 1222)"
+        },
+        {
+            "BE": "TIMO",
+            "Bald Eagle (1 of 1222)": "Tinian Monarch (1128 of 1222)"
+        },
+        {
+            "BE": "MARC",
+            "Bald Eagle (1 of 1222)": "Mariana Crow (1129 of 1222)"
+        },
+        {
+            "BE": "GUSW",
+            "Bald Eagle (1 of 1222)": "Guam Swiftlet (1130 of 1222)"
+        },
+        {
+            "BE": "NIRW",
+            "Bald Eagle (1 of 1222)": "Nightingale Reed Warbler (1131 of 1222)"
+        },
+        {
+            "BE": "MIME",
+            "Bald Eagle (1 of 1222)": "Micronesian Megapode (1132 of 1222)"
+        },
+        {
+            "BE": "WRSW",
+            "Bald Eagle (1 of 1222)": "White-rumped Swiftlet (1133 of 1222)"
+        },
+        {
+            "BE": "PCFD",
+            "Bald Eagle (1 of 1222)": "Purple-capped Fruit Dove (1134 of 1222)"
+        },
+        {
+            "BE": "COLK",
+            "Bald Eagle (1 of 1222)": "Collared Kingfisher (1135 of 1222)"
+        },
+        {
+            "BE": "SAST",
+            "Bald Eagle (1 of 1222)": "Samoan Starling (1136 of 1222)"
+        },
+        {
+            "BE": "POST",
+            "Bald Eagle (1 of 1222)": "Polynesian Starling (1137 of 1222)"
+        },
+        {
+            "BE": "CAHO",
+            "Bald Eagle (1 of 1222)": "Cardinal Honeyeater (1138 of 1222)"
+        },
+        {
+            "BE": "WAHO",
+            "Bald Eagle (1 of 1222)": "Wattled Honeyeater (1139 of 1222)"
+        },
+        {
+            "BE": "MIHO",
+            "Bald Eagle (1 of 1222)": "Micronesian Honeyeater (1140 of 1222)"
+        },
+        {
+            "BE": "RUFA",
+            "Bald Eagle (1 of 1222)": "Rufous Fantail (1141 of 1222)"
+        },
+        {
+            "BE": "FISH",
+            "Bald Eagle (1 of 1222)": "Fiji Shrikebill (1142 of 1222)"
+        },
+        {
+            "BE": "BRWE",
+            "Bald Eagle (1 of 1222)": "Bridled White-eye (1143 of 1222)"
+        },
+        {
+            "BE": "GOWE",
+            "Bald Eagle (1 of 1222)": "Golden White-eye (1144 of 1222)"
+        },
+        {
+            "BE": "MIST",
+            "Bald Eagle (1 of 1222)": "Micronesian Starling (1145 of 1222)"
+        },
+        {
+            "BE": "BLDR",
+            "Bald Eagle (1 of 1222)": "Black Drongo (1146 of 1222)"
+        },
+        {
+            "BE": "LTCU",
+            "Bald Eagle (1 of 1222)": "Long-tailed Cuckoo (1147 of 1222)"
+        },
+        {
+            "BE": "MCFD",
+            "Bald Eagle (1 of 1222)": "Many-colored Fruit Dove (1148 of 1222)"
+        },
+        {
+            "BE": "PAPI",
+            "Bald Eagle (1 of 1222)": "Pacific Pigeon (1149 of 1222)"
+        },
+        {
+            "BE": "SHGD",
+            "Bald Eagle (1 of 1222)": "Shy Ground Dove (1150 of 1222)"
+        },
+        {
+            "BE": "MICK",
+            "Bald Eagle (1 of 1222)": "Micronesian Kingfisher (1151 of 1222)"
+        },
+        {
+            "BE": "GMKI",
+            "Bald Eagle (1 of 1222)": "Guam Micronesian Kingfisher (1152 of 1222)"
+        },
+        {
+            "BE": "MASW",
+            "Bald Eagle (1 of 1222)": "Mariana Swiftlet (1153 of 1222)"
+        },
+        {
+            "BE": "ROWE",
+            "Bald Eagle (1 of 1222)": "Rota White-eye (1154 of 1222)"
+        },
+        {
+            "BE": "ANMA",
+            "Bald Eagle (1 of 1222)": "Antillean Mango (1155 of 1222)"
+        },
+        {
+            "BE": "STTL",
+            "Bald Eagle (1 of 1222)": "Streamertail (1156 of 1222)"
+        },
+        {
+            "BE": "JATO",
+            "Bald Eagle (1 of 1222)": "Jamaican Tody (1157 of 1222)"
+        },
+        {
+            "BE": "SAFL",
+            "Bald Eagle (1 of 1222)": "Sad Flycatcher (1158 of 1222)"
+        },
+        {
+            "BE": "YBEL",
+            "Bald Eagle (1 of 1222)": "Yellow-bellied Elaenia (1159 of 1222)"
+        },
+        {
+            "BE": "GAEL",
+            "Bald Eagle (1 of 1222)": "Greater Antillean Elaenia (1160 of 1222)"
+        },
+        {
+            "BE": "JAEL",
+            "Bald Eagle (1 of 1222)": "Jamaican Elaenia (1161 of 1222)"
+        },
+        {
+            "BE": "JACR",
+            "Bald Eagle (1 of 1222)": "Jamaican Crow (1162 of 1222)"
+        },
+        {
+            "BE": "SHWR",
+            "Bald Eagle (1 of 1222)": "Southern House Wren (1163 of 1222)"
+        },
+        {
+            "BE": "BRTR",
+            "Bald Eagle (1 of 1222)": "Brown Trembler (1164 of 1222)"
+        },
+        {
+            "BE": "WETH",
+            "Bald Eagle (1 of 1222)": "White-eyed Thrush (1165 of 1222)"
+        },
+        {
+            "BE": "WCTH",
+            "Bald Eagle (1 of 1222)": "White-chinned Thrush (1166 of 1222)"
+        },
+        {
+            "BE": "RTSO",
+            "Bald Eagle (1 of 1222)": "Rufous-throated Solitaire (1167 of 1222)"
+        },
+        {
+            "BE": "TBVI",
+            "Bald Eagle (1 of 1222)": "Thick-billed Vireo (1168 of 1222)"
+        },
+        {
+            "BE": "JAVI",
+            "Bald Eagle (1 of 1222)": "Jamaican Vireo (1169 of 1222)"
+        },
+        {
+            "BE": "OLIW",
+            "Bald Eagle (1 of 1222)": "Olive-capped Warbler (1170 of 1222)"
+        },
+        {
+            "BE": "ARRW",
+            "Bald Eagle (1 of 1222)": "Arrowhead Warbler (1171 of 1222)"
+        },
+        {
+            "BE": "BAYE",
+            "Bald Eagle (1 of 1222)": "Bahama Yellowthroat (1172 of 1222)"
+        },
+        {
+            "BE": "ORAN",
+            "Bald Eagle (1 of 1222)": "Orangequit (1173 of 1222)"
+        },
+        {
+            "BE": "JAEU",
+            "Bald Eagle (1 of 1222)": "Jamaican Euphonia (1174 of 1222)"
+        },
+        {
+            "BE": "VETR",
+            "Bald Eagle (1 of 1222)": "Venezuelan Troupial (1175 of 1222)"
+        },
+        {
+            "BE": "JAOR",
+            "Bald Eagle (1 of 1222)": "Jamaican Oriole (1176 of 1222)"
+        },
+        {
+            "BE": "YSGR",
+            "Bald Eagle (1 of 1222)": "Yellow-shouldered Grassquit (1177 of 1222)"
+        },
+        {
+            "BE": "GABU",
+            "Bald Eagle (1 of 1222)": "Greater Antillean Bullfinch (1178 of 1222)"
+        },
+        {
+            "BE": "YBSE",
+            "Bald Eagle (1 of 1222)": "Yellow-bellied Seedeater (1179 of 1222)"
+        },
+        {
+            "BE": "BBGR",
+            "Bald Eagle (1 of 1222)": "Blue-black Grassquit (1180 of 1222)"
+        },
+        {
+            "BE": "HYNO",
+            "Bald Eagle (1 of 1222)": "Hybrid Nonpasserine (1181 of 1222)"
+        },
+        {
+            "BE": "HYPA",
+            "Bald Eagle (1 of 1222)": "Hybrid Passerine (1182 of 1222)"
+        },
+        {
+            "BE": "GRPA",
+            "Bald Eagle (1 of 1222)": "Gray Partridge (1183 of 1222)"
+        },
+        {
+            "BE": "CHUK",
+            "Bald Eagle (1 of 1222)": "Chukar (1184 of 1222)"
+        },
+        {
+            "BE": "NOBO",
+            "Bald Eagle (1 of 1222)": "Northern Bobwhite (1185 of 1222)"
+        },
+        {
+            "BE": "MOUQ",
+            "Bald Eagle (1 of 1222)": "Mountain Quail (1186 of 1222)"
+        },
+        {
+            "BE": "SCQU",
+            "Bald Eagle (1 of 1222)": "Scaled Quail (1187 of 1222)"
+        },
+        {
+            "BE": "CAQU",
+            "Bald Eagle (1 of 1222)": "California Quail (1188 of 1222)"
+        },
+        {
+            "BE": "GAQU",
+            "Bald Eagle (1 of 1222)": "Gambel's Quail (1189 of 1222)"
+        },
+        {
+            "BE": "MTZQ",
+            "Bald Eagle (1 of 1222)": "Montezuma Quail (1190 of 1222)"
+        },
+        {
+            "BE": "BGSE",
+            "Bald Eagle (1 of 1222)": "Blue Grouse (1191 of 1222)"
+        },
+        {
+            "BE": "SPGR",
+            "Bald Eagle (1 of 1222)": "Spruce Grouse (1192 of 1222)"
+        },
+        {
+            "BE": "RUGR",
+            "Bald Eagle (1 of 1222)": "Ruffed Grouse (1193 of 1222)"
+        },
+        {
+            "BE": "WIPT",
+            "Bald Eagle (1 of 1222)": "Willow Ptarmigan (1194 of 1222)"
+        },
+        {
+            "BE": "ROPT",
+            "Bald Eagle (1 of 1222)": "Rock Ptarmigan (1195 of 1222)"
+        },
+        {
+            "BE": "WTPT",
+            "Bald Eagle (1 of 1222)": "White-tailed Ptarmigan (1196 of 1222)"
+        },
+        {
+            "BE": "GPCH",
+            "Bald Eagle (1 of 1222)": "Greater Prairie-Chicken (1197 of 1222)"
+        },
+        {
+            "BE": "LPCH",
+            "Bald Eagle (1 of 1222)": "Lesser Prairie-Chicken (1198 of 1222)"
+        },
+        {
+            "BE": "STGR",
+            "Bald Eagle (1 of 1222)": "Sharp-tailed Grouse (1199 of 1222)"
+        },
+        {
+            "BE": "GRSG",
+            "Bald Eagle (1 of 1222)": "Greater Sage Grouse (1200 of 1222)"
+        },
+        {
+            "BE": "RPHE",
+            "Bald Eagle (1 of 1222)": "Ring-necked Pheasant (1201 of 1222)"
+        },
+        {
+            "BE": "GUSG",
+            "Bald Eagle (1 of 1222)": "Gunnison Sage-Grouse (1202 of 1222)"
+        },
+        {
+            "BE": "COMP",
+            "Bald Eagle (1 of 1222)": "Common Peafowl (1203 of 1222)"
+        },
+        {
+            "BE": "WITU",
+            "Bald Eagle (1 of 1222)": "Wild Turkey (1204 of 1222)"
+        },
+        {
+            "BE": "PLCH",
+            "Bald Eagle (1 of 1222)": "Plain Chachalaca (1205 of 1222)"
+        },
+        {
+            "BE": "RODO",
+            "Bald Eagle (1 of 1222)": "Rock Dove (1206 of 1222)"
+        },
+        {
+            "BE": "OTHER",
+            "Bald Eagle (1 of 1222)": "Other Observation (1207 of 1222)"
+        },
+        {
+            "BE": "SS Adult",
+            "Bald Eagle (1 of 1222)": "Sharp-Shinned Hawk Adult (1208 of 1222)"
+        },
+        {
+            "BE": "SS Imm",
+            "Bald Eagle (1 of 1222)": "Sharp-Shinned Hawk Immature (1209 of 1222)"
+        },
+        {
+            "BE": "SS Unk",
+            "Bald Eagle (1 of 1222)": "Sharp-Shinned Hawk Unknown (1210 of 1222)"
+        },
+        {
+            "BE": "CH Adult",
+            "Bald Eagle (1 of 1222)": "Cooper's Hawk Adult (1211 of 1222)"
+        },
+        {
+            "BE": "CH Imm",
+            "Bald Eagle (1 of 1222)": "Cooper's Hawk Immature (1212 of 1222)"
+        },
+        {
+            "BE": "CH Unk",
+            "Bald Eagle (1 of 1222)": "Cooper's Hawk Unknown (1213 of 1222)"
+        },
+        {
+            "BE": "RT AL",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Adult Light (1214 of 1222)"
+        },
+        {
+            "BE": "RT AD",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Adult Dark (1215 of 1222)"
+        },
+        {
+            "BE": "RT AU",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Adult Unknown (1216 of 1222)"
+        },
+        {
+            "BE": "RT IL",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Immature Light (1217 of 1222)"
+        },
+        {
+            "BE": "RT ID",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Immature Dark (1218 of 1222)"
+        },
+        {
+            "BE": "RT IU",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Immature Unknown (1219 of 1222)"
+        },
+        {
+            "BE": "RT UL",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Unknown Light (1220 of 1222)"
+        },
+        {
+            "BE": "RT UD",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Unknown Dark (1221 of 1222)"
+        },
+        {
+            "BE": "RT UU",
+            "Bald Eagle (1 of 1222)": "Red-Tailed Hawk Unknown Unknown (1222 of 1222)"
+        }
+    ]
+}

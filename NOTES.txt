@@ -1,0 +1,9 @@
+double quotes on everyting
+double quotes all non-numeric
+get rid of comma on last entry
+
+you have filename for each file; store infor in database about each CSV file;
+where the column names are reconginzed with the filename and id, column 
+that is a json b column that stores the userColumns object (use postgres)
+first check if estits or write a row
+
