@@ -10,9 +10,6 @@ var _ = require("lodash");
 var http = require('http');
 var request = require('request');
 
-var string_data = '[{"local_id":3,"uuid":"b7e43d56-cc32-4f33-8bf0-e7c91adb76d4","projectId":4,"speciesId":76,"count":2,"user":"gflaspohler@dunkadoo.org","timestamp":"2016-06-07T13:46:03-04:00","latitude":42.2830168,"longitude":-83.7485074,"accuracy":18.85300064086914,"gps_at":"2016-06-07T13:46:04-04:00","data":"{\"age\":\"\",\"sex\":\"\",\"band\":\"\",\"rare\":\"\",\"size\":\"\",\"behavior\":[],\"distance\":\"\",\"direction\":\"\",\"observation\":[]}","device":"e17092ac5955022e","last_updated":"2016-06-07T13:46:04-04:00","ready_submit":"2016-06-07T13:46:04-04:00"}]';
-
-
 //Default values for each packet
 var json_bird_data = 
 {
@@ -23,21 +20,6 @@ var json_bird_data =
 	"ready_submit":"2016-06-07T13:46:04-04:00"
 }
 
-/*var json_data =  
-{
-	SpeciesData: { 
-		age: "I - Immature", 
-		morph: "Light"
-	}, 
-};*/
-
-
-/*var json_data =  
-{
-	"uuid": "3f4f8fee-e461-43be-9746-3dad0455d5a8" , 
-	"projectid": "temp", 
-	"device": "temp"
-};*/
 //Change user input prompt defaults
 prompt.message = '';
 prompt.start();
@@ -64,12 +46,15 @@ var readTaxonomy = new Promise(function(resolve, reject){
 	resolve(species);//Fufill the promise
 });
 
+// print process.argv
 //Read in the CSV of the user observations in JSON format
 var readCSV = new Promise(function(resolve, reject){
+	console.log(process.argv);
 	node_cj({
 		//input: "Grand Canyon 2015 v_ 2 - Default Questions.csv",
 		//input: 'Grand Canyon 2015 v_ 2 - AK.csv',  
-		input: "Grand Canyon 2015 v_ 2 - BW_ RT_ FH.csv",
+		//input: "Grand Canyon 2015 v_ 2 - BW_ RT_ FH.csv",
+		input: process.argv[2],
 		output: "output.json" //Output is unused
 	}, function(err, result){
 		if(err){//If error occurs, throw
