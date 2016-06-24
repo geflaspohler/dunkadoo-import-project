@@ -10,6 +10,10 @@ var _ = require("lodash");
 var http = require('http');
 var request = require('request');
 
+//var LineByLineReader = require('line-by-line'),
+//lr = new LineByLineReader('data/study_questions.txt');
+
+
 //Default values for each packet
 var json_bird_data = 
 {
